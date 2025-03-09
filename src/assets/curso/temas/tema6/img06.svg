@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="90" viewBox="0 0 90 90">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_409058" data-name="Rectangle 409058" width="42.896" height="54.114" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1118814" data-name="Group 1118814" transform="translate(-830.156 -1650)">
+    <g id="Group_1117145" data-name="Group 1117145" transform="translate(830.156 1650)">
+      <g id="Ellipse_11510" data-name="Ellipse 11510" fill="#fff" stroke="#ffce73" stroke-width="5">
+        <circle cx="45" cy="45" r="45" stroke="none"/>
+        <circle cx="45" cy="45" r="42.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_1118660" data-name="Group 1118660" transform="translate(854.156 1668)">
+      <path id="Path_906047" data-name="Path 906047" d="M39.109,4.454h6.2V56.527H4.453V4.454h6.223" transform="translate(-3.433 -3.434)" fill="#8acdff"/>
+      <path id="Path_906048" data-name="Path 906048" d="M49.245,23.681h5.517V67.148H21.9V23.681H49.245Z" transform="translate(-16.885 -18.255)" fill="#eef8ff"/>
+      <g id="Group_1118659" data-name="Group 1118659">
+        <g id="Group_1118658" data-name="Group 1118658" clip-path="url(#clip-path)">
+          <path id="Path_906049" data-name="Path 906049" d="M65.1,11.588H48.687A2.707,2.707,0,0,1,45.98,8.881V4.454H67.8V8.881A2.707,2.707,0,0,1,65.1,11.588" transform="translate(-35.444 -3.433)" fill="#ffbb2e"/>
+          <path id="Path_906050" data-name="Path 906050" d="M51.329,64.736H18.471a1.021,1.021,0,0,1-1.021-1.021V20.248a1.021,1.021,0,0,1,1.021-1.021h5.517a1.021,1.021,0,0,1,0,2.041h-4.5V62.695H50.308V21.268h-4.5a1.021,1.021,0,0,1,0-2.041h5.517a1.021,1.021,0,0,1,1.021,1.021V63.715a1.021,1.021,0,0,1-1.021,1.021" transform="translate(-13.452 -14.821)" fill="#3a2f49"/>
+          <path id="Path_906051" data-name="Path 906051" d="M41.875,54.114H1.02A1.021,1.021,0,0,1,0,53.094V1.021A1.021,1.021,0,0,1,1.02,0H7.242a1.021,1.021,0,1,1,0,2.041H2.04V52.073H40.854V2.041H35.675a1.021,1.021,0,1,1,0-2.041h6.2A1.02,1.02,0,0,1,42.9,1.021V53.094a1.02,1.02,0,0,1-1.02,1.021" transform="translate(0.001)" fill="#3a2f49"/>
+          <path id="Path_906052" data-name="Path 906052" d="M61.664,9.175H45.254a3.732,3.732,0,0,1-3.728-3.728V1.021A1.021,1.021,0,0,1,42.547,0H64.371a1.021,1.021,0,0,1,1.021,1.021V5.447a3.732,3.732,0,0,1-3.728,3.728m-18.1-7.134V5.447a1.688,1.688,0,0,0,1.686,1.686H61.664a1.688,1.688,0,0,0,1.687-1.686V2.041Z" transform="translate(-32.011)" fill="#3a2f49"/>
+          <path id="Path_906053" data-name="Path 906053" d="M87.445,59.774H73.686a1.021,1.021,0,1,1,0-2.041H87.445a1.021,1.021,0,0,1,0,2.041" transform="translate(-56.015 -44.504)" fill="#3a2f49"/>
+          <path id="Path_906054" data-name="Path 906054" d="M87.445,96.408H73.686a1.021,1.021,0,0,1,0-2.041H87.445a1.021,1.021,0,0,1,0,2.041" transform="translate(-56.015 -72.744)" fill="#3a2f49"/>
+          <path id="Path_906055" data-name="Path 906055" d="M87.445,133.042H73.686a1.021,1.021,0,1,1,0-2.041H87.445a1.021,1.021,0,0,1,0,2.041" transform="translate(-56.015 -100.984)" fill="#3a2f49"/>
+          <path id="Path_906056" data-name="Path 906056" d="M87.445,169.675H73.686a1.021,1.021,0,0,1,0-2.041H87.445a1.021,1.021,0,0,1,0,2.041" transform="translate(-56.015 -129.223)" fill="#3a2f49"/>
+          <path id="Path_906057" data-name="Path 906057" d="M47.589,57.837A1.293,1.293,0,1,1,46.3,56.544a1.293,1.293,0,0,1,1.293,1.293" transform="translate(-34.69 -43.588)" fill="#3a2f49"/>
+          <path id="Path_906058" data-name="Path 906058" d="M47.589,94.47A1.293,1.293,0,1,1,46.3,93.177a1.293,1.293,0,0,1,1.293,1.293" transform="translate(-34.69 -71.827)" fill="#3a2f49"/>
+          <path id="Path_906059" data-name="Path 906059" d="M47.589,131.1a1.293,1.293,0,1,1-1.293-1.293,1.293,1.293,0,0,1,1.293,1.293" transform="translate(-34.69 -100.067)" fill="#3a2f49"/>
+          <path id="Path_906060" data-name="Path 906060" d="M47.589,167.738a1.293,1.293,0,1,1-1.293-1.293,1.293,1.293,0,0,1,1.293,1.293" transform="translate(-34.69 -128.307)" fill="#3a2f49"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
