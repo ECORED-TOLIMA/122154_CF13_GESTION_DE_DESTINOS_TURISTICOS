@@ -2,13 +2,13 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. 
+    p A continuación, se describe un enfoque general del componente formativo Indicadores de gestión turística, el cual aborda la importancia del monitoreo y seguimiento en la gestión de destinos, destacando sus fundamentos, diferencias con la evaluación y buenas prácticas para su aplicación. Asimismo, se presentan metodologías y herramientas tecnológicas utilizadas en el monitoreo turístico, junto con un análisis comparativo de enfoques aplicados a distintos territorios. Se profundiza en la definición y selección de indicadores clave, abarcando dimensiones económicas, sociales y ambientales, así como su diseño y establecimiento de metas medibles. También se exploran los impactos del monitoreo, su influencia en la toma de decisiones estratégicas y la gestión de riesgos y oportunidades. Además, se detallan técnicas de análisis de resultados, incluyendo métodos cuantitativos y cualitativos, interpretación de tendencias y uso de software especializado. Se analizan los tipos de informes de resultados, su estructura y estrategias para una comunicación efectiva con actores clave. Finalmente, se resalta la importancia de la mejora continua y la retroalimentación, enfatizando cómo la incorporación de resultados permite ajustar estrategias y fomentar la sostenibilidad del destino.
     
 
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis.svg", alt="El componente formativo Indicadores de gestión turística, ofrece herramientas para el monitoreo y seguimiento de destinos, abordando metodologías, selección de indicadores clave y análisis de impactos. Se incluyen técnicas de interpretación de datos, elaboración de informes y estrategias de mejora continua, garantizando una gestión turística eficiente y sostenible.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
