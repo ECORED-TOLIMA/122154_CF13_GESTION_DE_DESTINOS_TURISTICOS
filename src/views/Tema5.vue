@@ -74,7 +74,7 @@
             figure
               img(src='@/assets/curso/temas/tema5/img07.svg', alt='Imagen decortiva')
 
-          div(x="20%" y="44.9%" tooltip="" numero="+")
+          div(x="20%" y="44.9%" tooltip="Métodos cuantitativos" numero="+")
             ul.lista-ul
               li 
                 i.fas.fa-angle-right
@@ -86,7 +86,7 @@
                 i.fas.fa-angle-right
                 p.mb-0(style="color: #fff") <b>Modelos econométricos</b>: permiten predecir y evaluar el impacto de variables económicas y políticas en el sector turístico, facilitando la toma de decisiones estratégicas.
 
-          div(x="78.9%" y="44.9%" tooltip="" numero="+")
+          div(x="78.9%" y="44.9%" tooltip="Métodos cualitativos" numero="+")
             ul.lista-ul
               li 
                 i.fas.fa-angle-right
