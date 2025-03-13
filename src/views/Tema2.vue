@@ -223,7 +223,7 @@
 
       p.mb-5(data-aos="fade-left") Para comprender mejor las diferencias entre ambos enfoques, se presenta una comparación de sus características clave. Mientras la planificación estratégica se enfoca en el crecimiento del turismo mediante estrategias estructuradas, el enfoque de sostenibilidad prioriza la conservación del entorno y el bienestar de las comunidades locales. La siguiente tabla resume los principales aspectos de cada metodología:
 
-      .row.justify-content-center(data-aos="flip-up")
+      .row.justify-content-center.mb-5(data-aos="flip-up")
         .col-lg-11.col-12
           .titulo-sexto.color-acento-contenido
             h5 Tabla 4.
@@ -253,7 +253,7 @@
                   td(style="background-color: #fff") Parque Arqueológico de San Agustín
                   td(style="background-color: #fff") Se adoptó un modelo de gestión participativa que involucra a la comunidad local en la administración del parque, promoviendo la sostenibilidad y el desarrollo económico.
 
-      p.mb-5(data-aos="fade-left") Este cuadro proporciona una visión general de cómo diferentes metodologías pueden ser aplicadas en diversos contextos turísticos en Colombia. Su implementación permite una planificación más eficiente, garantiza la sostenibilidad del destino y promueve el beneficio de las comunidades locales.
+      p.mb-0(data-aos="fade-left") Este cuadro proporciona una visión general de cómo diferentes metodologías pueden ser aplicadas en diversos contextos turísticos en Colombia. Su implementación permite una planificación más eficiente, garantiza la sostenibilidad del destino y promueve el beneficio de las comunidades locales.
 
 </template>
 
