@@ -13,7 +13,7 @@
         p En este contexto, la retroalimentación juega un papel fundamental, ya que proporciona información basada en la experiencia de turistas, comunidades y actores del sector. La integración de estos insumos en la toma de decisiones permite que la gestión turística evolucione en función de las necesidades del mercado y las tendencias emergentes. Además, este enfoque favorece la sostenibilidad del turismo, asegurando que el crecimiento del sector esté alineado con el bienestar de las comunidades locales y la preservación del entorno natural.
       .col-lg-5.col-md-8.col-10.order-lg-2.order-1.mb-lg-0.mb-4
         figure
-          img(src='@/assets/curso/temas/tema7/img01.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema7/img01.png', alt='Imagen decorativa')
 
     separador
     #t_7_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -79,7 +79,7 @@
                 .col-12.mb-4.mb-md-0
                   p Ampliar opciones turísticas mediante ecoturismo, turismo cultural y gastronómico para atraer distintos perfiles de visitantes.
 
-              .row(numero="3" titulo="­Mejora de infraestructura y conectividad")
+              .row(numero="3" titulo="Mejora de infraestructura y conectividad")
                 .col-12.mb-4.mb-md-0
                   p Invertir en transporte, alojamiento y señalización para garantizar experiencias turísticas más accesibles y satisfactorias.
 

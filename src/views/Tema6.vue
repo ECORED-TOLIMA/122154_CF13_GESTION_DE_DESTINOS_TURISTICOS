@@ -7,14 +7,14 @@
         span 6
       h1 Tipos de informes de resultados
     
-    .col-auto.mb-4(data-aos="flip-up")
+    .col-auto.mb-5(data-aos="flip-up")
       figure
         img(src='@/assets/curso/temas/tema6/img01.png', alt='Imagen decorativa')
 
-    p.mb-4(data-aos="fade-left") Los informes de resultados en el monitoreo turístico en Colombia permiten evaluar el desempeño de las estrategias implementadas y orientar la toma de decisiones. Existen diferentes tipos de informes, cada uno con una función específica:
+    p.mb-5(data-aos="fade-left") Los informes de resultados en el monitoreo turístico en Colombia permiten evaluar el desempeño de las estrategias implementadas y orientar la toma de decisiones. Existen diferentes tipos de informes, cada uno con una función específica:
 
     .row.justify-content-center(data-aos="flip-up")
-      .tarjeta--container.row.mb-4
+      .tarjeta--container.row.mb-5
         .col-xl.col-md-6.tarjeta.color-primario.p-5
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6.col-md-6
@@ -42,7 +42,7 @@
           h4.text-center Informes temáticos
           p.text-center Se centran en aspectos específicos del turismo, como el impacto ambiental, la sostenibilidad o la satisfacción del turista. Permiten profundizar en áreas clave y generar recomendaciones concretas.
 
-    p(data-aos="fade-left") Es fundamental que estos informes sean claros, estructurados y adaptados a las necesidades de los actores involucrados en la gestión del turismo en Colombia.
+    p.mb-0(data-aos="fade-left") Es fundamental que estos informes sean claros, estructurados y adaptados a las necesidades de los actores involucrados en la gestión del turismo en Colombia.
 
     separador
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -193,7 +193,7 @@
           .col-lg-4.col-sm-10.mb-4(data-aos="fade-right")
             .tarjeta.tarjeta--BG10.p-4.h-100
               h4 Identificación de actores clave:
-              p.mb-0 Empresarios, agencias de viajes, autoridades locales, ONGs y comunidades.
+              p.mb-0 Empresarios, agencias de viajes, autoridades locales, ONG y comunidades.
           .col-lg-4.col-sm-10.mb-4(data-aos="fade-right")
             .tarjeta.tarjeta--BG10.p-4.h-100
               h4 Adaptación del mensaje:
@@ -227,15 +227,15 @@
       .col-lg-10.col-12
         PasosA.color-acento-contenido.mb-4(tipo="n")
           .row.justify-content-center.align-items-center
-            .col-lg-6.col-md-8.col-12.mb-4.mb-md-0.order-lg-1.order-2.order-md-1.order-2
+            .col-lg-6.col-md-8.col-12.mb-4.mb-md-0.order-lg-1.order-2.order-md-2.order-2
               h3 Análisis de datos
               p Identificación de patrones, tendencias y áreas de mejora en indicadores clave del turismo (llegada de turistas, ocupación hotelera, ingresos, impacto ambiental, etc.).
-            .col-lg-6.col-md-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4.order-md-2.order
+            .col-lg-6.col-md-8.col-8.order-lg-2.order-1.mb-lg-0.mb-4.order-md-1
               figure
                 img(src='@/assets/curso/temas/tema6/img14.png', alt='Imagen decorativa')
 
           .row.justify-content-center.align-items-center
-            .col-lg-6.col-md-4.col-8.mb-3.order-lg-1.order-1.mb-lg-0.mb-4.order-md-1.order-1
+            .col-lg-6.col-md-8.col-8.mb-3.order-lg-1.order-1.mb-lg-0.mb-4.order-md-1.order-1
               figure
                 img(src='@/assets/curso/temas/tema6/img15.png', alt='Imagen decorativa')
             .col-lg-6.col-md-8.col-12.mb-4.mb-md-0.order-lg-2.order-2
@@ -243,7 +243,7 @@
               p Determinar las problemáticas más críticas y las oportunidades para mejorar el sector.
             
           .row.justify-content-center.align-items-center
-            .col-lg-6.col-md-8.col-12.mb-4.mb-md-0.order-lg-1.order-2.order-md-1.order-2
+            .col-lg-6.col-md-8.col-12.mb-4.mb-md-0.order-lg-1.order-2.order-md-2.order-2
               h3 Formulación de recomendaciones
               ul.lista-ul
                 li.mb-0
@@ -255,13 +255,13 @@
                 li
                   i.fas.fa-angle-right
                   p.mb-0 Viables y realistas: considerando los recursos disponibles y la situación del sector.
-            .col-lg-6.col-md-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4.order-md-2.order-1
+            .col-lg-6.col-md-8.col-8.order-lg-2.order-1.mb-lg-0.mb-4.order-md-1.order-1
               figure
                 img(src='@/assets/curso/temas/tema6/img16.png', alt='Imagen decorativa')
             
             
           .row.justify-content-center.align-items-center
-            .col-lg-6.col-md-4.col-8.order-lg-1.order-1.mb-lg-0.mb-4.order-md-1.order-1
+            .col-lg-6.col-md-8.col-8.order-lg-1.order-1.mb-lg-0.mb-4.order-md-1.order-1
               figure
                 img(src='@/assets/curso/temas/tema6/img17.png', alt='Imagen decorativa')
             .col-lg-6.col-md-8.col-12.mb-4.mb-md-0.order-lg-2.order-2.order-md-2.order-2
@@ -270,10 +270,10 @@
             
 
           .row.justify-content-center.align-items-center
-            .col-lg-6.col-md-8.col-12.mb-4.mb-md-0.order-lg-1.order-2.order-md-1.order-2
+            .col-lg-6.col-md-8.col-12.mb-4.mb-md-0.order-lg-1.order-2.order-md-2.order-2
               h3 Presentación clara
               p Organización de las recomendaciones en un formato comprensible, con apoyo de tablas o gráficos si es necesario.
-            .col-lg-6.col-md-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4.order-md-2.order-1
+            .col-lg-6.col-md-8.col-8.order-lg-2.order-1.mb-lg-0.mb-4.order-md-1.order-1
               figure
                 img(src='@/assets/curso/temas/tema6/img18.png', alt='Imagen decorativa')
 
@@ -302,7 +302,7 @@
             figure
               img(src="@/assets/curso/temas/tema6/img21.svg", alt="alt").img90.m-auto
           h4.text-center Promoción de destinos emergentes
-          p.text-center.mb-0 Realizar campañas de marketing para promocionar destinos turísticos emergentes en Colombia, con énfasis en la cultura local y el ecoturismo.
+          p.text-center.mb-0 Realizar campañas de <em>marketing</em> para promocionar destinos turísticos emergentes en Colombia, con énfasis en la cultura local y el ecoturismo.
 
     p(data-aos="fade-left") Con estos enfoques, se garantiza que los informes no solo informen, sino que también impulsen la mejora continua del turismo en Colombia.
 

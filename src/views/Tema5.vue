@@ -11,7 +11,7 @@
       figure
         img(src='@/assets/curso/temas/tema5/img01.png', alt='Imagen decorativa')
 
-    p.mb-4(data-aos="fade-left") Para evaluar el desempeño y la efectividad de las políticas de gestión turística en Colombia, se emplean diversas técnicas de análisis. Estas permiten interpretar los indicadores del sector y facilitar la toma de decisiones estratégicas. A continuación, se presentan las principales metodologías utilizadas: 
+    p.mb-5(data-aos="fade-left") Para evaluar el desempeño y la efectividad de las políticas de gestión turística en Colombia, se emplean diversas técnicas de análisis. Estas permiten interpretar los indicadores del sector y facilitar la toma de decisiones estratégicas. A continuación, se presentan las principales metodologías utilizadas: 
 
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-6.mb-3
@@ -106,58 +106,57 @@
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.2 Interpretación de datos y tendencias
     
-    p.mb-4(data-aos="fade-left") La interpretación de los datos y tendencias de los indicadores de gestión turística en Colombia requiere un análisis detallado de la información recopilada, considerando su contexto y su relación con los objetivos de desarrollo turístico del país. A continuación, se describen los pasos para la interpretación de datos y tendencias:
+    p.mb-5(data-aos="fade-left") La interpretación de los datos y tendencias de los indicadores de gestión turística en Colombia requiere un análisis detallado de la información recopilada, considerando su contexto y su relación con los objetivos de desarrollo turístico del país. A continuación, se describen los pasos para la interpretación de datos y tendencias:
 
-    .row.justify-content-center.align-items-center(data-aos="flip-up")
-      .col-lg-10.col-12
-        LineaTiempoE.color-acento-contenido.mb-5
-          .row(titulo="01")
-            .col-lg-2.mb-3.mb-lg-0.col-6
-              figure
-                img.img200(src='@/assets/curso/temas/tema5/img08.svg', alt='Imagen decorativa')
-            .col-lg-10.mb-4.mb-lg-0
-              h3 Definición de indicadores de gestión turística
-                p.mb-0 Identificación de los indicadores clave para el análisis, como el número de visitantes, los ingresos por turismo, la sostenibilidad y la satisfacción del cliente.
+    .col-lg-10(data-aos="flip-up")
+      LineaTiempoE.color-acento-contenido.mb-5
+        .row(titulo="01")
+          .col-lg-2.mb-3.mb-lg-0.col-6
+            figure
+              img.img200(src='@/assets/curso/temas/tema5/img08.svg', alt='Imagen decorativa')
+          .col-lg-10.mb-4.mb-lg-0
+            h4 Definición de indicadores de gestión turística
+              p.mb-0 Identificación de los indicadores clave para el análisis, como el número de visitantes, los ingresos por turismo, la sostenibilidad y la satisfacción del cliente.
 
-          .row(titulo="02")
-            .col-lg-2.mb-3.mb-lg-0.col-6
-              figure
-                img.img200(src='@/assets/curso/temas/tema5/img09.svg', alt='Imagen decorativa')
-            .col-lg-10.mb-4.mb-lg-0
-              h3 Recolección de datos
-                p.mb-0 Obtención de información de fuentes confiables, como el Ministerio de Comercio, Industria y Turismo de Colombia, el DANE y organismos internacionales.
+        .row(titulo="02")
+          .col-lg-2.mb-3.mb-lg-0.col-6
+            figure
+              img.img200(src='@/assets/curso/temas/tema5/img09.svg', alt='Imagen decorativa')
+          .col-lg-10.mb-4.mb-lg-0
+            h4 Recolección de datos
+              p.mb-0 Obtención de información de fuentes confiables, como el Ministerio de Comercio, Industria y Turismo de Colombia, el DANE y organismos internacionales.
 
-          .row(titulo="03")
-            .col-lg-2.mb-3.mb-lg-0.col-6
-              figure
-                img.img200(src='@/assets/curso/temas/tema5/img10.svg', alt='Imagen decorativa')
-            .col-lg-10.mb-4.mb-lg-0
-              h3 Análisis cuantitativo y cualitativo
-                p.mb-0 Aplicación de métodos estadísticos para identificar tendencias, incluyendo promedios, variaciones y correlaciones, complementados con un análisis cualitativo sobre políticas públicas, percepciones de los turistas e impactos sociales.
+        .row(titulo="03")
+          .col-lg-2.mb-3.mb-lg-0.col-6
+            figure
+              img.img200(src='@/assets/curso/temas/tema5/img10.svg', alt='Imagen decorativa')
+          .col-lg-10.mb-4.mb-lg-0
+            h4 Análisis cuantitativo y cualitativo
+              p.mb-0 Aplicación de métodos estadísticos para identificar tendencias, incluyendo promedios, variaciones y correlaciones, complementados con un análisis cualitativo sobre políticas públicas, percepciones de los turistas e impactos sociales.
 
-          .row(titulo="04")
-            .col-lg-2.mb-3.mb-lg-0.col-6
-              figure
-                img.img200(src='@/assets/curso/temas/tema5/img11.svg', alt='Imagen decorativa')
-            .col-lg-10.mb-4.mb-lg-0
-              h3 Identificación de tendencias
-                p.mb-0 Evaluación de los cambios a lo largo del tiempo para detectar patrones, como el aumento del turismo internacional o la estacionalidad en la demanda.
+        .row(titulo="04")
+          .col-lg-2.mb-3.mb-lg-0.col-6
+            figure
+              img.img200(src='@/assets/curso/temas/tema5/img11.svg', alt='Imagen decorativa')
+          .col-lg-10.mb-4.mb-lg-0
+            h4 Identificación de tendencias
+              p.mb-0 Evaluación de los cambios a lo largo del tiempo para detectar patrones, como el aumento del turismo internacional o la estacionalidad en la demanda.
 
-          .row(titulo="05")
-            .col-lg-2.mb-3.mb-lg-0.col-6
-              figure
-                img.img200(src='@/assets/curso/temas/tema5/img12.svg', alt='Imagen decorativa')
-            .col-lg-10.mb-4.mb-lg-0
-              h3 Contextualización de resultados
-                p.mb-0 Relación de los hallazgos con el contexto socioeconómico del país, las políticas implementadas y las transformaciones en la industria turística a nivel global.
+        .row(titulo="05")
+          .col-lg-2.mb-3.mb-lg-0.col-6
+            figure
+              img.img200(src='@/assets/curso/temas/tema5/img12.svg', alt='Imagen decorativa')
+          .col-lg-10.mb-4.mb-lg-0
+            h4 Contextualización de resultados
+              p.mb-0 Relación de los hallazgos con el contexto socioeconómico del país, las políticas implementadas y las transformaciones en la industria turística a nivel global.
 
-          .row(titulo="06")
-            .col-lg-2.mb-3.mb-lg-0.col-6
-              figure
-                img.img200(src='@/assets/curso/temas/tema5/img13.svg', alt='Imagen decorativa')
-            .col-lg-10.mb-4.mb-lg-0
-              h3 Conclusiones y recomendaciones
-                p.mb-0 Síntesis de los principales hallazgos sobre la efectividad de las estrategias de gestión turística y formulación de recomendaciones basadas en los resultados.
+        .row(titulo="06")
+          .col-lg-2.mb-3.mb-lg-0.col-6
+            figure
+              img.img200(src='@/assets/curso/temas/tema5/img13.svg', alt='Imagen decorativa')
+          .col-lg-10.mb-4.mb-lg-0
+            h4 Conclusiones y recomendaciones
+              p.mb-0 Síntesis de los principales hallazgos sobre la efectividad de las estrategias de gestión turística y formulación de recomendaciones basadas en los resultados.
 
     p(data-aos="fade-left") La interpretación de los datos no solo permite evaluar el desempeño del sector turístico, sino también anticipar desafíos y oportunidades para su desarrollo sostenible. Al identificar tendencias y patrones, es posible diseñar estrategias más eficaces que impulsen la competitividad del turismo en Colombia, fomenten la inversión y mejoren la experiencia de los visitantes. Además, una adecuada contextualización de los resultados contribuye a la formulación de políticas públicas que respondan a las necesidades del sector y promuevan un crecimiento equilibrado y responsable.
 
@@ -165,9 +164,9 @@
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.3 Uso de <em>software</em> especializado para la gestión de resultados
 
-    p.mb-4(data-aos="fade-left") El uso de <em>software</em> especializado en la gestión de resultados en el sector turístico en Colombia, ha crecido significativamente en los últimos años. Estas herramientas permiten mejorar la eficiencia operativa, optimizar la experiencia del cliente y facilitar la toma de decisiones basadas en datos. A continuación, se presentan algunas de las principales aplicaciones de estos sistemas:
+    p.mb-5(data-aos="fade-left") El uso de <em>software</em> especializado en la gestión de resultados en el sector turístico en Colombia, ha crecido significativamente en los últimos años. Estas herramientas permiten mejorar la eficiencia operativa, optimizar la experiencia del cliente y facilitar la toma de decisiones basadas en datos. A continuación, se presentan algunas de las principales aplicaciones de estos sistemas:
 
-    .row.mb-4(data-aos="flip-up")
+    .row.mb-5(data-aos="flip-up")
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-4
@@ -179,7 +178,7 @@
           .col-4
             img(src='@/assets/curso/temas/tema5/img15.svg' alt='AvatarTop')
         h4.text-center Análisis de datos
-        p.text-center El uso de <em>software</em> analítico facilita la identificación de tendencias y patrones en el comportamiento de los turistas. Herramientas de Business Intelligence (BI) permiten a las empresas ajustar sus estrategias de marketing y optimizar sus servicios en función de la demanda.
+        p.text-center El uso de <em>software</em> analítico facilita la identificación de tendencias y patrones en el comportamiento de los turistas. Herramientas de Business Intelligence (BI) permiten a las empresas ajustar sus estrategias de <em>marketing</em> y optimizar sus servicios en función de la demanda.
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-4
@@ -193,7 +192,7 @@
         h4.text-center Plataformas de reservas y gestión de inventarios
         p.text-center Los sistemas de reservas en línea permiten a los turistas realizar sus reservas de manera eficiente, mientras que los sistemas de gestión de inventarios ayudan a controlar la disponibilidad de servicios y productos turísticos.
 
-    p(data-aos="fade-left") El uso de estas herramientas no solo optimiza la gestión operativa y comercial, sino que también permite una toma de decisiones más estratégica y basada en datos. La integración con tecnologías emergentes como la inteligencia artificial y el Big Data representa una oportunidad para mejorar la sostenibilidad y la innovación en la industria turística en Colombia.
+    p.mb-0(data-aos="fade-left") El uso de estas herramientas no solo optimiza la gestión operativa y comercial, sino que también permite una toma de decisiones más estratégica y basada en datos. La integración con tecnologías emergentes como la inteligencia artificial y el <em>Big Data</em> representa una oportunidad para mejorar la sostenibilidad y la innovación en la industria turística en Colombia.
     separador
     #t_5_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.4 Evaluación de la efectividad de las estrategias turísticas
@@ -215,10 +214,9 @@
           .row.mb-5(titulo="Desafíos en la evaluación de estrategias turísticas")
             .col-lg-12.mb-4.mb-md-0
               p La evaluación enfrenta diversos desafíos, como la disponibilidad y calidad de los datos turísticos, que pueden afectar la precisión del análisis. Asimismo, la estacionalidad y factores externos, como crisis económicas o sanitarias, pueden distorsionar los resultados. Finalmente, es fundamental garantizar que el crecimiento del sector sea sostenible y beneficie a las comunidades locales sin generar impactos negativos en el entorno.
-      .col-lg-4.col-7.order-lg-2.order-1.mb-lg-0.mb-4
+      .col-lg-4.col-7.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
         figure
           img(src='@/assets/curso/temas/tema5/img18.png', alt='Imagen decorativa')
-
 
 </template>
 

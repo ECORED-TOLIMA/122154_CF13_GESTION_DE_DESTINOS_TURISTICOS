@@ -7,8 +7,8 @@
         span 2
       h1 Metodologías del monitoreo y seguimiento
     
-    .tarjeta.tarjeta--BG06.p-4.p-md-5.mb-5
-      p.mb-5(data-aos="fade-left") En Colombia, el monitoreo y seguimiento de políticas, programas y proyectos se realiza mediante sistemas integrados que combinan evaluaciones cualitativas y cuantitativas. Uno de los principales marcos metodológicos es el Sistema Nacional de Evaluación de Gestión y Resultados (Sinergia), el cual mide el desempeño de las políticas públicas enmarcadas en el Plan Nacional de Desarrollo. Este enfoque resalta la importancia de la evaluación continua, utilizando herramientas como la evaluación ex-ante, durante la ejecución y ex-post para analizar impactos y eficiencia. El seguimiento financiero y físico permite optimizar la asignación de recursos, mientras que el análisis de resultados facilita la toma de decisiones y fortalece la transparencia y la rendición de cuentas (DNP, 2011).
+    .tarjeta.tarjeta--BG06.px-4.px-md-5.mb-5
+      p.mb-5(data-aos="fade-left") En Colombia, el monitoreo y seguimiento de políticas, programas y proyectos se realiza mediante sistemas integrados que combinan evaluaciones cualitativas y cuantitativas. Uno de los principales marcos metodológicos es el Sistema Nacional de Evaluación de Gestión y Resultados (SINERGIA), el cual mide el desempeño de las políticas públicas enmarcadas en el Plan Nacional de Desarrollo. Este enfoque resalta la importancia de la evaluación continua, utilizando herramientas como la evaluación ex-ante, durante la ejecución y ex-post para analizar impactos y eficiencia. El seguimiento financiero y físico permite optimizar la asignación de recursos, mientras que el análisis de resultados facilita la toma de decisiones y fortalece la transparencia y la rendición de cuentas (DNP, 2011).
       .row.justify-content-center
         .col-lg-10.col-12
           .row.justify-content-center
@@ -20,7 +20,7 @@
                 img(src='@/assets/curso/temas/tema2/img01.svg', alt='Imagen decorativa')
 
     .row.justify-content-center.align-items-center(data-aos="flip-up")
-      .col-12.mb-5
+      .col-12
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--verde")
           .row.justify-content-center.p-4(titulo="Monitoreo basado en indicadores")
             .col-lg-4.order-lg-1.order-2
@@ -90,7 +90,7 @@
             .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema2/img10.svg' alt='AvatarTop')
           h4.text-center Tecnologías de la información
-          p Utiliza herramientas digitales y sistemas de información geográfica (SIG) para recopilar, analizar y visualizar datos turísticos, facilitando la toma de decisiones basada en evidencia.
+          p Utiliza herramientas digitales y Sistemas de Información Geográfica (SIG) para recopilar, analizar y visualizar datos turísticos, facilitando la toma de decisiones basada en evidencia.
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -99,7 +99,7 @@
     .tarjeta.tarjeta--BG08.p-4.p-md-5.mb-5(data-aos="flip-up")
       .row.justify-content-center.mb-4
         .col-lg-7.col-12.order-lg-1.order-2
-          p Las herramientas tecnológicas han transformado la gestión y promoción de los destinos turísticos, permitiendo un monitoreo más eficiente y una mejor toma de decisiones. Entre las principales tecnologías se encuentran las plataformas de análisis de datos, que recopilan información sobre el comportamiento y las preferencias de los viajeros, ayudando a empresas y autoridades a optimizar servicios y estrategias de marketing.
+          p Las herramientas tecnológicas han transformado la gestión y promoción de los destinos turísticos, permitiendo un monitoreo más eficiente y una mejor toma de decisiones. Entre las principales tecnologías se encuentran las plataformas de análisis de datos, que recopilan información sobre el comportamiento y las preferencias de los viajeros, ayudando a empresas y autoridades a optimizar servicios y estrategias de <em>marketing</em>.
           p Las aplicaciones de geolocalización permiten rastrear flujos turísticos y mejorar la gestión de recursos, mientras que las redes sociales y herramientas de análisis de sentimiento facilitan la evaluación de la percepción del mercado y las tendencias. Asimismo, los sistemas de gestión hotelera automatizan tareas operativas y proporcionan datos en tiempo real sobre ocupación y reservas, optimizando la toma de decisiones. Finalmente, el análisis de reseñas y comentarios en línea proporciona información valiosa para mejorar la calidad del servicio y la satisfacción del cliente.
         .col-lg-5.col-md-8.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           figure
@@ -126,7 +126,7 @@
                 td(style="background-color: #fff") Aplicación del SIG en la planificación del uso del suelo en el Parque Nacional Natural Tayrona, evaluando el impacto del turismo en la biodiversidad.
               tr
                 td.text-bold(style="background-color: #fff") Plataformas de gestión de datos
-                td(style="background-color: #fff") Recopilan y analizan datos sobre el comportamiento de los turistas, sus preferencias y niveles de satisfacción, facilitando la toma de decisiones en marketing y servicios.
+                td(style="background-color: #fff") Recopilan y analizan datos sobre el comportamiento de los turistas, sus preferencias y niveles de satisfacción, facilitando la toma de decisiones en <em>marketing</em> y servicios.
                 td(style="background-color: #fff") El “Observatorio Turístico de Colombia” proporciona información sobre tendencias turísticas y datos demográficos para la toma de decisiones en el sector.
               tr
                 td.text-bold(style="background-color: #fff") Herramientas de redes sociales y análisis de sentimiento
@@ -198,15 +198,15 @@
                 th(style= "width: 40%") Enfoque de sostenibilidad
             tbody
               tr
-                td.text-bold(style="background-color: #fff") Objetivo Principal
+                td.text-bold(style="background-color: #fff") Objetivo principal
                 td(style="background-color: #fff") Maximizar el potencial turístico.
                 td(style="background-color: #fff") Conservar el medio ambiente y fomentar el desarrollo local.
               tr
-                td.text-bold(style="background-color: #fff") Participación de Actores
+                td.text-bold(style="background-color: #fff") Participación de actores
                 td(style="background-color: #fff") Alta, con énfasis en la comunidad local.
-                td(style="background-color: #fff") Muy alta, involucrando comunidades y ONGs.
+                td(style="background-color: #fff") Muy alta, involucrando comunidades y ONG.
               tr
-                td.text-bold(style="background-color: #fff") Impacto a Largo Plazo
+                td.text-bold(style="background-color: #fff") Impacto a largo plazo
                 td(style="background-color: #fff") Positivo, pero su implementación puede ser lenta.
                 td(style="background-color: #fff") Sostenible, aunque puede limitar el crecimiento turístico.
               tr
@@ -217,13 +217,13 @@
     p.mb-5(data-aos="fade-left") Ambos enfoques son fundamentales para la gestión turística en Colombia. Mientras la planificación estratégica impulsa el desarrollo a largo plazo, el enfoque de sostenibilidad garantiza un equilibrio entre crecimiento y conservación. La combinación de ambas metodologías podría ser clave para un turismo rentable y sostenible en el tiempo.
 
     separador
-    .tarjeta.tarjeta--BG05.p-4.p-md-5.mb-5
+    .tarjeta.tarjeta--BG05.px-md-5.px-4
       #t_2_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 2.4 Ejemplos de aplicación práctica en destinos turísticos
 
       p.mb-5(data-aos="fade-left") Para comprender mejor las diferencias entre ambos enfoques, se presenta una comparación de sus características clave. Mientras la planificación estratégica se enfoca en el crecimiento del turismo mediante estrategias estructuradas, el enfoque de sostenibilidad prioriza la conservación del entorno y el bienestar de las comunidades locales. La siguiente tabla resume los principales aspectos de cada metodología:
 
-      .row.justify-content-center.mb-5(data-aos="flip-up")
+      .row.justify-content-center(data-aos="flip-up")
         .col-lg-11.col-12
           .titulo-sexto.color-acento-contenido
             h5 Tabla 4.

@@ -18,7 +18,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
         .cajon.cajon.c2.color-secundario.p-4
-          p En conclusión, los indicadores de gestión turística son herramientas esenciales para impulsar un turismo equilibrado y sostenible en Colombia. Su correcta implementación permite un crecimiento ordenado del sector, asegurando su viabilidad a largo plazo.
+          p.mb-0 En conclusión, los indicadores de gestión turística son herramientas esenciales para impulsar un turismo equilibrado y sostenible en Colombia. Su correcta implementación permite un crecimiento ordenado del sector, asegurando su viabilidad a largo plazo.
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -59,7 +59,7 @@
 
     p.mb-4(data-aos="fade-left") Los indicadores de gestión turística se dividen en tres grandes categorías: económicos, sociales y ambientales. Cada uno de ellos permite evaluar distintos aspectos del desarrollo del sector y su impacto en el país.
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
+    .div.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
         .row.justify-content-center.align-items-center
           .col-12.mb-5.mb-md-0.order-lg-2.order-2.mb-lg-0
@@ -68,20 +68,11 @@
                 .col-12.mb-4.mb-md-0
                   p Estos indicadores miden la actividad económica y el desempeño financiero del turismo en una región. Incluyen datos sobre el PIB, la inflación y el empleo, proporcionando información clave sobre el crecimiento del sector. En Colombia, algunos ejemplos incluyen:
                   .tarjeta.tarjeta--blanca.p-4
-                    ul.lista-ul
-                      li.mb-0 
-                        i.lista-ul__vineta(style="color: #FFCE73")
-                        p.mb-0 Producto Interno Bruto (PIB) del turismo.
-                      li.mb-0 
-                        i.lista-ul__vineta(style="color: #FFCE73")
-                        p.mb-0 Ingresos generados por el turismo.
-                      li.mb-0 
-                        i.lista-ul__vineta(style="color: #FFCE73")
-                        p.mb-0 Gastos turísticos.
-                      li.mb-0 
-                        i.lista-ul__vineta(style="color: #FFCE73")
-                        p.mb-0 Tasa de crecimiento del PIB turístico.
-                .col-lg-12.col-sm-4.col-5.order-lg-1.order-1.mb-lg-0.mb-4
+                    li.mb-0 Producto Interno Bruto (PIB) del turismo.
+                    li.mb-0 Ingresos generados por el turismo.
+                    li.mb-0 Gastos turísticos.
+                    li.mb-0 Tasa de crecimiento del PIB turístico.
+                .col-lg-12.order-lg-1.order-1.mb-lg-0.mb-4
                   figure
                     img(src='@/assets/curso/temas/tema3/img03.png', alt='Imagen decorativa')
               
@@ -89,20 +80,11 @@
                 .col-12.mb-4.mb-md-0
                   p Evalúan el bienestar social, la calidad de vida y el impacto del turismo en las comunidades locales. Incluyen variables como educación, salud, pobreza y equidad, reflejando cómo el turismo contribuye al desarrollo social. Entre los indicadores más relevantes en Colombia se encuentran:
                   .tarjeta.tarjeta--blanca.p-4
-                    ul.lista-ul
-                      li.mb-0 
-                        i.lista-ul__vineta(style="color: #FFCE73")
-                        p.mb-0 Índice de Desarrollo Humano (IDH).
-                      li.mb-0 
-                        i.lista-ul__vineta(style="color: #FFCE73")
-                        p.mb-0 Creación de empleo en el sector turístico.
-                      li.mb-0 
-                        i.lista-ul__vineta(style="color: #FFCE73")
-                        p.mb-0 Satisfacción del turista.
-                      li.mb-0 
-                        i.lista-ul__vineta(style="color: #FFCE73")
-                        p.mb-0 Impacto del turismo en la cultura local.
-                .col-lg-12.col-sm-4.col-5.order-lg-1.order-1.mb-lg-0.mb-4
+                    li.mb-0 Índice de Desarrollo Humano (IDH).
+                    li.mb-0 Creación de empleo en el sector turístico.
+                    li.mb-0 Satisfacción del turista.
+                    li.mb-0 Impacto del turismo en la cultura local.
+                .col-lg-12.order-lg-1.order-1.mb-lg-0.mb-4
                   figure
                     img(src='@/assets/curso/temas/tema3/img04.png', alt='Imagen decorativa')
 
@@ -110,20 +92,11 @@
                 .col-12.mb-4.mb-md-0
                   p Reflejan el estado del medio ambiente y los recursos naturales en los destinos turísticos. Su objetivo es medir la sostenibilidad de la actividad turística y minimizar su impacto negativo en los ecosistemas. Algunos ejemplos en el contexto colombiano incluyen:
                   .tarjeta.tarjeta--blanca.p-4
-                    ul.lista-ul
-                      li.mb-0 
-                        i.lista-ul__vineta(style="color: #FFCE73")
-                        p.mb-0 Huella ecológica del turismo.
-                      li.mb-0 
-                        i.lista-ul__vineta(style="color: #FFCE73")
-                        p.mb-0 Calidad del aire y del agua en destinos turísticos.
-                      li.mb-0 
-                        i.lista-ul__vineta(style="color: #FFCE73")
-                        p.mb-0 Conservación de áreas naturales protegidas.
-                      li.mb-0 
-                        i.lista-ul__vineta(style="color: #FFCE73")
-                        p.mb-0 Indicadores de biodiversidad en zonas turísticas.
-                .col-lg-12.col-sm-4.col-5.order-lg-1.order-1.mb-lg-0.mb-4
+                    li.mb-0 Huella ecológica del turismo.
+                    li.mb-0 Calidad del aire y del agua en destinos turísticos.
+                    li.mb-0 Conservación de áreas naturales protegidas.
+                    li.mb-0 Indicadores de biodiversidad en zonas turísticas.
+                .col-lg-12.order-lg-1.order-1.mb-lg-0.mb-4
                   figure
                     img(src='@/assets/curso/temas/tema3/img05.png', alt='Imagen decorativa')
 
@@ -132,9 +105,9 @@
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.3 Diseño de indicadores específicos para el territorio
     
-    p.mb-4(data-aos="fade-left") El diseño de indicadores específicos para el sector turístico en Colombia, requiere un proceso estructurado que garantice su relevancia, precisión y utilidad en la toma de decisiones. Para ello, es fundamental seguir una serie de pasos que permitan evaluar de manera efectiva el impacto del turismo en distintos territorios.
+    p.mb-5(data-aos="fade-left") El diseño de indicadores específicos para el sector turístico en Colombia, requiere un proceso estructurado que garantice su relevancia, precisión y utilidad en la toma de decisiones. Para ello, es fundamental seguir una serie de pasos que permitan evaluar de manera efectiva el impacto del turismo en distintos territorios.
 
-    .tarjeta.tarjeta--BG01.p-md-5.p-4.mb-4(data-aos="flip-up")
+    .tarjeta.tarjeta--BG01.p-md-5.p-4.mb-5(data-aos="flip-up")
       SlyderA(tipo="b")
         .row.justify-content-center.p-4
           .col-lg-5.order-lg-1.order-2
@@ -192,13 +165,13 @@
             figure
               img(src='@/assets/curso/temas/tema3/img12.png', alt='Imagen decorativa')
 
-    p(data-aos="fade-left") El diseño de indicadores específicos para el turismo en Colombia no solo facilita la planificación y gestión del sector, sino que también contribuye al desarrollo sostenible, asegurando que las estrategias implementadas respondan a las necesidades y características de cada territorio.
+    p.mb-0(data-aos="fade-left") El diseño de indicadores específicos para el turismo en Colombia no solo facilita la planificación y gestión del sector, sino que también contribuye al desarrollo sostenible, asegurando que las estrategias implementadas respondan a las necesidades y características de cada territorio.
 
     separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.4 Cómo establecer metas e hitos medibles
     
-    p.mb-4(data-aos="fade-left") Para garantizar una gestión turística efectiva en Colombia, es fundamental establecer metas e hitos medibles que permitan evaluar el impacto de las estrategias implementadas. Este proceso debe basarse en la definición de objetivos alineados con las políticas nacionales, la selección de indicadores adecuados y la formulación de metas SMART. Además, el desarrollo de hitos intermedios facilita el seguimiento del progreso, mientras que un sistema de monitoreo y evaluación permite realizar ajustes oportunos para optimizar los resultados y promover un crecimiento sostenible del sector turístico. El proceso para establecer metas efectivas incluye los siguientes pasos:
+    p.mb-5(data-aos="fade-left") Para garantizar una gestión turística efectiva en Colombia, es fundamental establecer metas e hitos medibles que permitan evaluar el impacto de las estrategias implementadas. Este proceso debe basarse en la definición de objetivos alineados con las políticas nacionales, la selección de indicadores adecuados y la formulación de metas SMART. Además, el desarrollo de hitos intermedios facilita el seguimiento del progreso, mientras que un sistema de monitoreo y evaluación permite realizar ajustes oportunos para optimizar los resultados y promover un crecimiento sostenible del sector turístico. El proceso para establecer metas efectivas incluye los siguientes pasos:
 
     .row.mb-5(data-aos="flip-up")
       .col-lg-4.col-lg.mb-5.mb-lg-0

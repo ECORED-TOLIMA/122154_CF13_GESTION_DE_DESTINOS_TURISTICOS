@@ -260,7 +260,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA_13_122154_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -383,7 +383,7 @@ export default {
     },
     {
       referencia:
-        'Kotler, P., & Keller, K. L. (2006). Dirección de Marketing (12.ª ed.). Pearson.',
+        'Kotler, P., & Keller, K. L. (2006). Dirección de <em>Marketing</em> (12.ª ed.). Pearson.',
       link:
         'https://frrq.cvg.utn.edu.ar/pluginfile.php/14585/mod_resource/content/1/libro%20direccion-de-marketing%28kotler-keller_2006%29.pdf',
     },

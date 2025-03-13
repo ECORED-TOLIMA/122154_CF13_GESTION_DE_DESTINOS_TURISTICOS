@@ -19,9 +19,9 @@
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.1 Identificación de impactos positivos y negativos
     p.mb-4(data-aos="fade-left") El turismo en Colombia genera múltiples impactos que pueden ser positivos o negativos, dependiendo de la forma en que se gestione. Su desarrollo sostenible requiere un análisis detallado para maximizar los beneficios y mitigar los riesgos.
-    p.mb-4(data-aos="fade-left") Entre los impactos positivos, destaca el crecimiento económico, ya que el turismo impulsa el empleo y la inversión en sectores como la hotelería, el transporte y el comercio. Regiones como Cartagena y Santa Marta han visto un incremento significativo en su Producto Interno Bruto (PIB) gracias a la llegada de turistas nacionales e internacionales. Asimismo, el desarrollo de infraestructura ha mejorado la conectividad y accesibilidad de diversos destinos. La modernización de aeropuertos, la construcción de carreteras y la ampliación de servicios turísticos no solo benefician a los visitantes, sino también a las comunidades locales.
+    p.mb-5(data-aos="fade-left") Entre los impactos positivos, destaca el crecimiento económico, ya que el turismo impulsa el empleo y la inversión en sectores como la hotelería, el transporte y el comercio. Regiones como Cartagena y Santa Marta han visto un incremento significativo en su Producto Interno Bruto (PIB) gracias a la llegada de turistas nacionales e internacionales. Asimismo, el desarrollo de infraestructura ha mejorado la conectividad y accesibilidad de diversos destinos. La modernización de aeropuertos, la construcción de carreteras y la ampliación de servicios turísticos no solo benefician a los visitantes, sino también a las comunidades locales.
     
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-up")
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-up")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img02.png')})`}"
       )
@@ -34,16 +34,16 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
         .cajon.cajon.c1.p-4.p-md-5
-          .row.justify-content-center
+          .row.justify-content-center.align-items-center
             .col-lg-9.col-12.order-lg-1.order-2
               p Otro aspecto negativo es el desplazamiento de comunidades. La expansión de proyectos turísticos, como la construcción de hoteles y complejos vacacionales, ha llevado en algunos casos a la reubicación de poblaciones locales, afectando su calidad de vida y su identidad cultural. En el Eje Cafetero, han surgido conflictos sociales debido a la transformación de tierras agrícolas en zonas turísticas.
               p Además, el turismo puede aumentar la inequidad social. Aunque genera empleos, muchos de ellos son informales o con condiciones laborales precarias, lo que impide que las comunidades receptoras se beneficien equitativamente del crecimiento del sector. En varias regiones turísticas, los ingresos derivados del turismo están concentrados en grandes empresas, dejando de lado a pequeños emprendedores y trabajadores locales.
-              p Dado este panorama, resulta fundamental implementar estrategias que equilibren los beneficios económicos con la protección ambiental y el bienestar social. Un turismo sostenible permitirá que Colombia continúe aprovechando su potencial sin comprometer sus recursos naturales ni afectar a sus comunidades.
-            .col-lg-3.col-md-8.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+              p.mb-0 Dado este panorama, resulta fundamental implementar estrategias que equilibren los beneficios económicos con la protección ambiental y el bienestar social. Un turismo sostenible permitirá que Colombia continúe aprovechando su potencial sin comprometer sus recursos naturales ni afectar a sus comunidades.
+            .col-lg-3.col-md-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema4/img03.svg', alt='Imagen decorativa')
 
-    p.mb-4(data-aos="fade-left") Sin embargo, el turismo también presenta impactos negativos que requieren una gestión adecuada. Uno de los más preocupantes es la degradación ambiental, pues el crecimiento descontrolado de visitantes puede causar contaminación, erosión de playas y sobreexplotación de recursos naturales. En San Andrés, por ejemplo, el alto flujo de turistas ha generado problemas de conservación en sus ecosistemas marinos.
+    p.mb-0(data-aos="fade-left") Sin embargo, el turismo también presenta impactos negativos que requieren una gestión adecuada. Uno de los más preocupantes es la degradación ambiental, pues el crecimiento descontrolado de visitantes puede causar contaminación, erosión de playas y sobreexplotación de recursos naturales. En San Andrés, por ejemplo, el alto flujo de turistas ha generado problemas de conservación en sus ecosistemas marinos.
     separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.2 Gestión de riesgos y oportunidades en base a los resultados
@@ -100,7 +100,7 @@
                 p.mb-0 Diversificación de la oferta turística para reducir la dependencia de un solo mercado.
               li 
                 i.fas.fa-angle-right
-                p.mb-0 Estrategias de marketing para recuperar la confianza de los turistas tras eventos adversos.
+                p.mb-0 Estrategias de <em>marketing</em> para recuperar la confianza de los turistas tras eventos adversos.
 
       .py-3.py-md-4(titulo="Colaboración interinstitucional")
         .row.justify-content-center.p-4
@@ -142,7 +142,7 @@
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.3 Relación entre monitoreo y toma de decisiones estratégicas
 
-    .tarjeta.tarjeta--BG05.p-4.p-md-5.mb-4
+    .tarjeta.tarjeta--BG05.px-md-5.px-4.mb-4
       p.mb-5(data-aos="fade-left") El turismo en Colombia genera múltiples impactos que pueden ser positivos o negativos, dependiendo de la forma en que se gestione. Su desarrollo sostenible requiere un análisis detallado para maximizar los beneficios y mitigar los riesgos. 
       .row.justify-content-center
         .col-lg-10.col-12
@@ -154,9 +154,9 @@
               figure
                 img(src='@/assets/curso/temas/tema4/img09.png', alt='Imagen decorativa')
     
-    p.mb-4(data-aos="fade-left") Sin embargo, el turismo también presenta impactos negativos que requieren una gestión adecuada. Uno de los más preocupantes es la degradación ambiental, pues el crecimiento descontrolado de visitantes puede causar contaminación, erosión de playas y sobreexplotación de recursos naturales. En San Andrés, por ejemplo, el alto flujo de turistas ha generado problemas de conservación en sus ecosistemas marinos.
+    p.mb-5(data-aos="fade-left") Sin embargo, el turismo también presenta impactos negativos que requieren una gestión adecuada. Uno de los más preocupantes es la degradación ambiental, pues el crecimiento descontrolado de visitantes puede causar contaminación, erosión de playas y sobreexplotación de recursos naturales. En San Andrés, por ejemplo, el alto flujo de turistas ha generado problemas de conservación en sus ecosistemas marinos.
     
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-up")
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-up")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img10.png')})`}"
       )
@@ -166,7 +166,7 @@
           br
           | 
     p.mb-4(data-aos="fade-left") Además, el turismo puede aumentar la inequidad social. Aunque genera empleos, muchos de ellos son informales o con condiciones laborales precarias, lo que impide que las comunidades receptoras se beneficien equitativamente del crecimiento del sector. En varias regiones turísticas, los ingresos derivados del turismo están concentrados en grandes empresas, dejando de lado a pequeños emprendedores y trabajadores locales. 
-    p(data-aos="fade-left") Dado este panorama, resulta fundamental implementar estrategias que equilibren los beneficios económicos con la protección ambiental y el bienestar social. Un turismo sostenible permitirá que Colombia continúe aprovechando su potencial sin comprometer sus recursos naturales ni afectar a sus comunidades. 
+    p.mb-0(data-aos="fade-left") Dado este panorama, resulta fundamental implementar estrategias que equilibren los beneficios económicos con la protección ambiental y el bienestar social. Un turismo sostenible permitirá que Colombia continúe aprovechando su potencial sin comprometer sus recursos naturales ni afectar a sus comunidades. 
 
     separador
     #t_4_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
