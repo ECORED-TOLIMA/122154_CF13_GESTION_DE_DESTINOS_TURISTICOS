@@ -180,7 +180,7 @@
                 li 
                   i.fas.fa-angle-right
                   p.mb-0 Relación de fuentes consultadas, siguiendo las normas de citación vigentes (APA u otro formato requerido).
-    p(data-aos="fade-left") Cada sección del informe debe adaptarse a los objetivos específicos del estudio y a los requisitos de la entidad que lo solicita. Además, es recomendable mantenerse actualizado sobre las directrices de citación y presentación para garantizar la validez y rigor del documento.
+    p.mb-0(data-aos="fade-left") Cada sección del informe debe adaptarse a los objetivos específicos del estudio y a los requisitos de la entidad que lo solicita. Además, es recomendable mantenerse actualizado sobre las directrices de citación y presentación para garantizar la validez y rigor del documento.
     separador
     #t_6_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 6.2 Comunicación efectiva de los resultados a los actores clave
@@ -304,7 +304,7 @@
           h4.text-center Promoción de destinos emergentes
           p.text-center.mb-0 Realizar campañas de <em>marketing</em> para promocionar destinos turísticos emergentes en Colombia, con énfasis en la cultura local y el ecoturismo.
 
-    p(data-aos="fade-left") Con estos enfoques, se garantiza que los informes no solo informen, sino que también impulsen la mejora continua del turismo en Colombia.
+    p.mb-0(data-aos="fade-left") Con estos enfoques, se garantiza que los informes no solo informen, sino que también impulsen la mejora continua del turismo en Colombia.
 
 
 </template>

@@ -11,7 +11,7 @@
       figure
         img(src='@/assets/curso/temas/tema5/img01.png', alt='Imagen decorativa')
 
-    p.mb-5(data-aos="fade-left") Para evaluar el desempeño y la efectividad de las políticas de gestión turística en Colombia, se emplean diversas técnicas de análisis. Estas permiten interpretar los indicadores del sector y facilitar la toma de decisiones estratégicas. A continuación, se presentan las principales metodologías utilizadas: 
+    p.mb-4(data-aos="fade-left") Para evaluar el desempeño y la efectividad de las políticas de gestión turística en Colombia, se emplean diversas técnicas de análisis. Estas permiten interpretar los indicadores del sector y facilitar la toma de decisiones estratégicas. A continuación, se presentan las principales metodologías utilizadas: 
 
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-6.mb-3
@@ -59,7 +59,7 @@
               h4 Análisis SWOT (FODA)
               p Evalúa fortalezas, oportunidades, debilidades y amenazas del sector turístico en un contexto específico, proporcionando una visión integral para la planificación estratégica.
 
-    p(data-aos="fade-left") El uso adecuado de estas técnicas permite obtener información valiosa para la gestión turística, facilitando la identificación de oportunidades de mejora y la implementación de estrategias más efectivas. Al integrar estos análisis en la toma de decisiones, se optimizan los recursos y se impulsa un desarrollo turístico más sostenible y competitivo.
+    p.mb-0(data-aos="fade-left") El uso adecuado de estas técnicas permite obtener información valiosa para la gestión turística, facilitando la identificación de oportunidades de mejora y la implementación de estrategias más efectivas. Al integrar estos análisis en la toma de decisiones, se optimizan los recursos y se impulsa un desarrollo turístico más sostenible y competitivo.
 
     separador
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -100,7 +100,7 @@
 
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-10.col-12
-        p.mb-4 Los indicadores cuantitativos incluyen estadísticas sobre la llegada de turistas internacionales, los ingresos generados por el turismo y las tasas de ocupación hotelera. Por otro lado, los indicadores cualitativos abarcan las percepciones de los residentes sobre el impacto del turismo, la evaluación de la sostenibilidad de las prácticas turísticas y los niveles de satisfacción de los visitantes con la oferta turística.
+        p.mb-0 Los indicadores cuantitativos incluyen estadísticas sobre la llegada de turistas internacionales, los ingresos generados por el turismo y las tasas de ocupación hotelera. Por otro lado, los indicadores cualitativos abarcan las percepciones de los residentes sobre el impacto del turismo, la evaluación de la sostenibilidad de las prácticas turísticas y los niveles de satisfacción de los visitantes con la oferta turística.
 
     separador
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -158,7 +158,7 @@
             h4 Conclusiones y recomendaciones
               p.mb-0 Síntesis de los principales hallazgos sobre la efectividad de las estrategias de gestión turística y formulación de recomendaciones basadas en los resultados.
 
-    p(data-aos="fade-left") La interpretación de los datos no solo permite evaluar el desempeño del sector turístico, sino también anticipar desafíos y oportunidades para su desarrollo sostenible. Al identificar tendencias y patrones, es posible diseñar estrategias más eficaces que impulsen la competitividad del turismo en Colombia, fomenten la inversión y mejoren la experiencia de los visitantes. Además, una adecuada contextualización de los resultados contribuye a la formulación de políticas públicas que respondan a las necesidades del sector y promuevan un crecimiento equilibrado y responsable.
+    p.mb-0(data-aos="fade-left") La interpretación de los datos no solo permite evaluar el desempeño del sector turístico, sino también anticipar desafíos y oportunidades para su desarrollo sostenible. Al identificar tendencias y patrones, es posible diseñar estrategias más eficaces que impulsen la competitividad del turismo en Colombia, fomenten la inversión y mejoren la experiencia de los visitantes. Además, una adecuada contextualización de los resultados contribuye a la formulación de políticas públicas que respondan a las necesidades del sector y promuevan un crecimiento equilibrado y responsable.
 
     separador
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -199,7 +199,7 @@
 
     p.mb-4(data-aos="fade-left") La evaluación de la efectividad de las estrategias turísticas en Colombia requiere un enfoque estructurado que permita analizar su impacto en el desarrollo del sector. Este proceso implica la identificación de estrategias implementadas, el uso de indicadores clave y la aplicación de metodologías de análisis para formular recomendaciones basadas en evidencia.
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="flip-up")
       .col-lg-8.col-12.order-lg-1.order-2
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
           .row.mb-5(titulo="Estrategias implementadas en el turismo colombiano")

@@ -7,7 +7,7 @@
         span 7
       h1 Mejora continua y retroalimentación
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="flip-up")
       .col-lg-7.col-12.order-lg-1.order-2
         p La mejora continua en la gestión turística de Colombia es un proceso sistemático que busca optimizar las estrategias y prácticas del sector mediante la evaluación constante de indicadores clave. Este enfoque garantiza una mayor calidad en los servicios turísticos, mayor satisfacción del visitante y un impacto positivo en la economía local. La recopilación y análisis de datos permiten a las organizaciones identificar oportunidades de mejora, implementar cambios estratégicos y monitorear su efectividad.
         p En este contexto, la retroalimentación juega un papel fundamental, ya que proporciona información basada en la experiencia de turistas, comunidades y actores del sector. La integración de estos insumos en la toma de decisiones permite que la gestión turística evolucione en función de las necesidades del mercado y las tendencias emergentes. Además, este enfoque favorece la sostenibilidad del turismo, asegurando que el crecimiento del sector esté alineado con el bienestar de las comunidades locales y la preservación del entorno natural.
@@ -58,7 +58,7 @@
           h4.text-center Evaluación y retroalimentación
           p Se monitorea el impacto de las acciones implementadas y se recoge retroalimentación de visitantes y actores del sector para ajustar las estrategias.
 
-    p(data-aos="fade-left") Este enfoque permite una evolución constante de la gestión turística en Colombia, garantizando un servicio de alta calidad y promoviendo la competitividad del sector.
+    p.mb-0(data-aos="fade-left") Este enfoque permite una evolución constante de la gestión turística en Colombia, garantizando un servicio de alta calidad y promoviendo la competitividad del sector.
       
     separador
     #t_7_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -66,7 +66,7 @@
 
     p.mb-5(data-aos="fade-left") Para fortalecer la gestión turística, es esencial proponer ajustes estratégicos que respondan a las necesidades del sector. Algunas de las propuestas clave incluyen:
     
-    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="flip-up")
       .col-lg-10.col-12
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-8.col-12.mb-5.mb-md-0.order-lg-1.order-2.mb-lg-0
@@ -130,7 +130,7 @@
       .col-lg-6.col-md-8.col-10.order-lg-1.order-1.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema7/img10.png', alt='Imagen decorativa')
-    p(data-aos="fade-left") Este enfoque fortalece la competitividad del turismo en Colombia y contribuye a un crecimiento más equitativo y sostenible del sector.
+    p.mb-0(data-aos="fade-left") Este enfoque fortalece la competitividad del turismo en Colombia y contribuye a un crecimiento más equitativo y sostenible del sector.
 
       
 

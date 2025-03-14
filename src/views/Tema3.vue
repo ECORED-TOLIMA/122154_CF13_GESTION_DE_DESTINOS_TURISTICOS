@@ -15,7 +15,7 @@
     p.mb-4(data-aos="fade-left") Entre los indicadores más utilizados se encuentran el número de turistas, la tasa de ocupación hotelera, el ingreso por turismo y la satisfacción del visitante. Estos datos no solo facilitan la planificación a nivel local y nacional, sino que también contribuyen a mejorar la competitividad de los destinos colombianos en el ámbito internacional.
     p.mb-4(data-aos="fade-left") La adopción de estándares internacionales en la medición de indicadores fortalece el posicionamiento de Colombia en el mercado turístico global. Tanto el sector público como el privado han integrado estos indicadores con un enfoque multidimensional, considerando aspectos económicos, sociales y ambientales. Esta perspectiva integral garantiza un turismo sostenible que beneficia a las comunidades locales y preserva el patrimonio natural y cultural del país.
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="flip-up")
       .col-lg-10.col-12
         .cajon.cajon.c2.color-secundario.p-4
           p.mb-0 En conclusión, los indicadores de gestión turística son herramientas esenciales para impulsar un turismo equilibrado y sostenible en Colombia. Su correcta implementación permite un crecimiento ordenado del sector, asegurando su viabilidad a largo plazo.
@@ -51,7 +51,7 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img02.svg', alt='Imagen decorativa')
 
-    p.mb-4(data-aos="fade-left") La selección de estos indicadores debe ser un proceso participativo, en el que intervengan el gobierno, las empresas del sector y las comunidades locales, garantizando que la información recopilada contribuya a un turismo responsable y competitivo.
+    p.mb-0(data-aos="fade-left") La selección de estos indicadores debe ser un proceso participativo, en el que intervengan el gobierno, las empresas del sector y las comunidades locales, garantizando que la información recopilada contribuya a un turismo responsable y competitivo.
 
     separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -60,7 +60,7 @@
     p.mb-4(data-aos="fade-left") Los indicadores de gestión turística se dividen en tres grandes categorías: económicos, sociales y ambientales. Cada uno de ellos permite evaluar distintos aspectos del desarrollo del sector y su impacto en el país.
 
     .div.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
-      .col-lg-10.col-12
+      .col-12
         .row.justify-content-center.align-items-center
           .col-12.mb-5.mb-md-0.order-lg-2.order-2.mb-lg-0
             LineaTiempoD.color-acento-botones.especial
@@ -100,7 +100,7 @@
                   figure
                     img(src='@/assets/curso/temas/tema3/img05.png', alt='Imagen decorativa')
 
-    p(data-aos="fade-left") Estos indicadores permiten un monitoreo integral del sector turístico en Colombia, asegurando un desarrollo equilibrado que beneficie tanto a la economía como a la sociedad y el medio ambiente.
+    p.mb-0(data-aos="fade-left") Estos indicadores permiten un monitoreo integral del sector turístico en Colombia, asegurando un desarrollo equilibrado que beneficie tanto a la economía como a la sociedad y el medio ambiente.
     separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.3 Diseño de indicadores específicos para el territorio
@@ -195,7 +195,7 @@
             .p-4
               h4.text-center c) Establecimiento de metas SMART
               p.text-center Definir objetivos específicos, medibles, alcanzables, relevantes y temporales, por ejemplo, aumentar en un 10 % los visitantes internacionales en dos años.
-    .row.justify-content-center.mb-5(data-aos="flip-up")
+    .row.justify-content-center.mb-0(data-aos="flip-up")
       .col-lg-4.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img16.svg' alt='AvatarTop')

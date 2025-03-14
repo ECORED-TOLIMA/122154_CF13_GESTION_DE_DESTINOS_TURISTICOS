@@ -21,7 +21,7 @@
 
     .row.justify-content-center.align-items-center(data-aos="flip-up")
       .col-12
-        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--verde")
+        AcordionA.mb-0(tipo="a" clase-tarjeta="tarjeta tarjeta--verde")
           .row.justify-content-center.p-4(titulo="Monitoreo basado en indicadores")
             .col-lg-4.order-lg-1.order-2
               p Se centra en la definición y medición de indicadores específicos para evaluar el desempeño y el progreso de programas o proyectos. Estos indicadores pueden ser cualitativos o cuantitativos y permiten realizar un seguimiento continuo para verificar el cumplimiento de los objetivos establecidos.
@@ -55,7 +55,7 @@
     
     p.mb-5(data-aos="fade-left") La clasificación de los saberes culturales y artísticos permite reconocer su impacto en el desarrollo social, económico y cultural de los municipios. Esta tipología facilita su preservación, difusión y aprovechamiento en diversas iniciativas, promoviendo la identidad local y fortaleciendo la cohesión comunitaria. A continuación, se presentan los principales beneficios de su aplicación.
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="flip-up")
       SlyderF(columnas="col-lg-6 col-xl-4")
         .tarjeta.tarjeta--BG07.p-4
           .row.justify-content-center.mb-3
@@ -96,8 +96,8 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.2 Herramientas tecnológicas para el monitoreo en el sector turístico
     
-    .tarjeta.tarjeta--BG08.p-4.p-md-5.mb-5(data-aos="flip-up")
-      .row.justify-content-center.mb-4
+    .tarjeta.tarjeta--BG08.p-4.p-md-5.mb-0(data-aos="flip-up")
+      .row.justify-content-center
         .col-lg-7.col-12.order-lg-1.order-2
           p Las herramientas tecnológicas han transformado la gestión y promoción de los destinos turísticos, permitiendo un monitoreo más eficiente y una mejor toma de decisiones. Entre las principales tecnologías se encuentran las plataformas de análisis de datos, que recopilan información sobre el comportamiento y las preferencias de los viajeros, ayudando a empresas y autoridades a optimizar servicios y estrategias de <em>marketing</em>.
           p Las aplicaciones de geolocalización permiten rastrear flujos turísticos y mejorar la gestión de recursos, mientras que las redes sociales y herramientas de análisis de sentimiento facilitan la evaluación de la percepción del mercado y las tendencias. Asimismo, los sistemas de gestión hotelera automatizan tareas operativas y proporcionan datos en tiempo real sobre ocupación y reservas, optimizando la toma de decisiones. Finalmente, el análisis de reseñas y comentarios en línea proporciona información valiosa para mejorar la calidad del servicio y la satisfacción del cliente.
@@ -107,7 +107,7 @@
 
       p Estas tecnologías no solo mejoran la experiencia del viajero, sino que también contribuyen a una planificación más eficiente y sostenible del turismo. A continuación, se presentan algunas herramientas tecnológicas más utilizadas:
 
-    .row.justify-content-center.mb-5(data-aos="flip-up")
+    .row.justify-content-center.mb-0(data-aos="flip-up")
       .col-lg-11.col-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 2.
@@ -148,7 +148,7 @@
 
     p.mb-5(data-aos="fade-left") El crecimiento del turismo en Colombia ha impulsado la implementación de diversas metodologías para la planificación y gestión de los territorios turísticos. En este análisis se comparan dos enfoques predominantes: la planificación estratégica y la sostenibilidad, cada uno con sus propias ventajas y desafíos.
 
-    .row.justify-content-center.ali.mb-4(data-aos="flip-up")
+    .row.justify-content-center.mb-0(data-aos="flip-up")
       .tarjeta--container.row.mb-5
         .col-xl.col-md-6.tarjeta.color-primario.p-5
           .row.justify-content-center.mb-3
@@ -214,7 +214,7 @@
                 td(style="background-color: #fff") Menor flexibilidad, debido a su estructura planificada.
                 td(style="background-color: #fff") Alta flexibilidad, adaptándose a las condiciones locales.
 
-    p.mb-5(data-aos="fade-left") Ambos enfoques son fundamentales para la gestión turística en Colombia. Mientras la planificación estratégica impulsa el desarrollo a largo plazo, el enfoque de sostenibilidad garantiza un equilibrio entre crecimiento y conservación. La combinación de ambas metodologías podría ser clave para un turismo rentable y sostenible en el tiempo.
+    p.mb-0(data-aos="fade-left") Ambos enfoques son fundamentales para la gestión turística en Colombia. Mientras la planificación estratégica impulsa el desarrollo a largo plazo, el enfoque de sostenibilidad garantiza un equilibrio entre crecimiento y conservación. La combinación de ambas metodologías podría ser clave para un turismo rentable y sostenible en el tiempo.
 
     separador
     .tarjeta.tarjeta--BG05.px-md-5.px-4

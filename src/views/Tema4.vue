@@ -7,7 +7,7 @@
         span 4
       h1 Impactos del monitoreo y seguimiento
     
-    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="flip-up")
       .col-lg-7.col-12.order-lg-1.order-2
         p El monitoreo del turismo en Colombia es una herramienta clave para evaluar su impacto socioeconómico y ambiental. A través de la recolección de datos, encuestas y análisis de tendencias, es posible comprender el comportamiento de los turistas, sus preferencias y los efectos de la actividad turística en las comunidades locales. Esto permite a las autoridades y operadores turísticos diseñar estrategias que promuevan un desarrollo sostenible, maximizando los beneficios económicos y minimizando los impactos negativos sobre el entorno, la cultura y el bienestar de la población.
         p Además, el seguimiento continuo del sector facilita la evaluación de la efectividad de las políticas públicas y programas implementados. La recopilación de información actualizada permite ajustar estrategias para abordar desafíos como el turismo masivo, la degradación ambiental y la pérdida de identidad cultural. Asimismo, contribuye a mejorar la infraestructura y la calidad de los servicios turísticos, garantizando una experiencia más equitativa y sostenible. En este sentido, un enfoque basado en datos fortalece la competitividad del sector y fomenta un turismo más responsable y consciente, que respete los recursos naturales y las comunidades locales.
@@ -136,7 +136,7 @@
                 i.fas.fa-angle-right
                 p.mb-0 Fortalecimiento de la competitividad del sector en el mercado global.
 
-    p(data-aos="fade-left") En conclusión, la gestión de riesgos y oportunidades en el turismo colombiano debe basarse en un enfoque preventivo, colaborativo y sostenible. Identificar amenazas, mitigar sus efectos y aprovechar oportunidades emergentes permitirá consolidar un turismo más resiliente y equilibrado, capaz de generar beneficios económicos sin comprometer el bienestar social y ambiental del país.
+    p.mb-0(data-aos="fade-left") En conclusión, la gestión de riesgos y oportunidades en el turismo colombiano debe basarse en un enfoque preventivo, colaborativo y sostenible. Identificar amenazas, mitigar sus efectos y aprovechar oportunidades emergentes permitirá consolidar un turismo más resiliente y equilibrado, capaz de generar beneficios económicos sin comprometer el bienestar social y ambiental del país.
 
     separador
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -175,7 +175,7 @@
     p.mb-4(data-aos="fade-left") El análisis de casos de estudio permite comprender los diversos impactos que el turismo genera en diferentes destinos, abarcando dimensiones ambientales, económicas, sociales y culturales. A través de estos estudios, es posible identificar los principales desafíos y estrategias de mitigación implementadas para fomentar un turismo sostenible.
     p.mb-4(data-aos="fade-left") A continuación, se presentan algunos destinos turísticos y los impactos evaluados en cada uno:
 
-    .row.justify-content-center.mb-5(data-aos="flip-up")
+    .row.justify-content-center.mb-0(data-aos="flip-up")
       .col-lg-11.col-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 5.
