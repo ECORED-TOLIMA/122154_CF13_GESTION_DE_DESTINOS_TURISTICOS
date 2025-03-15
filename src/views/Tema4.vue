@@ -13,7 +13,7 @@
         p Además, el seguimiento continuo del sector facilita la evaluación de la efectividad de las políticas públicas y programas implementados. La recopilación de información actualizada permite ajustar estrategias para abordar desafíos como el turismo masivo, la degradación ambiental y la pérdida de identidad cultural. Asimismo, contribuye a mejorar la infraestructura y la calidad de los servicios turísticos, garantizando una experiencia más equitativa y sostenible. En este sentido, un enfoque basado en datos fortalece la competitividad del sector y fomenta un turismo más responsable y consciente, que respete los recursos naturales y las comunidades locales.
       .col-lg-5.col-md-8.col-10.order-lg-2.order-1.mb-lg-0.mb-4
         figure
-          img(src='@/assets/curso/temas/tema4/img01.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema4/img01.png', alt='Imagen decorativa')
 
     separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")

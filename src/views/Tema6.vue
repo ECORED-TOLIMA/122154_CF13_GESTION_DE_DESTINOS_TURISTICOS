@@ -227,23 +227,23 @@
       .col-lg-10.col-12
         PasosA.color-acento-contenido.mb-4(tipo="n")
           .row.justify-content-center.align-items-center
-            .col-lg-6.col-md-8.col-12.mb-4.mb-md-0.order-lg-1.order-2.order-md-2.order-2
+            .col-lg-6.mb-4.mb-md-0.order-lg-1.order-2.order-md-2.order-2
               h3 Análisis de datos
               p Identificación de patrones, tendencias y áreas de mejora en indicadores clave del turismo (llegada de turistas, ocupación hotelera, ingresos, impacto ambiental, etc.).
-            .col-lg-6.col-md-8.col-8.order-lg-2.order-1.mb-lg-0.mb-4.order-md-1
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4.order-md-1
               figure
                 img(src='@/assets/curso/temas/tema6/img14.png', alt='Imagen decorativa')
 
           .row.justify-content-center.align-items-center
-            .col-lg-6.col-md-8.col-8.mb-3.order-lg-1.order-1.mb-lg-0.mb-4.order-md-1.order-1
+            .col-lg-6.col-10.mb-3.order-lg-1.order-1.mb-lg-0.mb-4.order-md-1.order-1
               figure
                 img(src='@/assets/curso/temas/tema6/img15.png', alt='Imagen decorativa')
-            .col-lg-6.col-md-8.col-12.mb-4.mb-md-0.order-lg-2.order-2
+            .col-lg-6.mb-4.mb-md-0.order-lg-2.order-2
               h3 Identificación de problemas y oportunidades
               p Determinar las problemáticas más críticas y las oportunidades para mejorar el sector.
             
           .row.justify-content-center.align-items-center
-            .col-lg-6.col-md-8.col-12.mb-4.mb-md-0.order-lg-1.order-2.order-md-2.order-2
+            .col-lg-6.mb-4.mb-md-0.order-lg-1.order-2.order-md-2.order-2
               h3 Formulación de recomendaciones
               ul.lista-ul
                 li.mb-0
@@ -255,25 +255,25 @@
                 li
                   i.fas.fa-angle-right
                   p.mb-0 Viables y realistas: considerando los recursos disponibles y la situación del sector.
-            .col-lg-6.col-md-8.col-8.order-lg-2.order-1.mb-lg-0.mb-4.order-md-1.order-1
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4.order-md-1.order-1
               figure
                 img(src='@/assets/curso/temas/tema6/img16.png', alt='Imagen decorativa')
             
             
           .row.justify-content-center.align-items-center
-            .col-lg-6.col-md-8.col-8.order-lg-1.order-1.mb-lg-0.mb-4.order-md-1.order-1
+            .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4.order-md-1.order-1
               figure
                 img(src='@/assets/curso/temas/tema6/img17.png', alt='Imagen decorativa')
-            .col-lg-6.col-md-8.col-12.mb-4.mb-md-0.order-lg-2.order-2.order-md-2.order-2
+            .col-lg-6.mb-4.mb-md-0.order-lg-2.order-2.order-md-2.order-2
               h3 Priorización de recomendaciones
               p Clasificación en función de su impacto y viabilidad.
             
 
           .row.justify-content-center.align-items-center
-            .col-lg-6.col-md-8.col-12.mb-4.mb-md-0.order-lg-1.order-2.order-md-2.order-2
+            .col-lg-6.mb-4.mb-md-0.order-lg-1.order-2.order-md-2.order-2
               h3 Presentación clara
               p Organización de las recomendaciones en un formato comprensible, con apoyo de tablas o gráficos si es necesario.
-            .col-lg-6.col-md-8.col-8.order-lg-2.order-1.mb-lg-0.mb-4.order-md-1.order-1
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4.order-md-1.order-1
               figure
                 img(src='@/assets/curso/temas/tema6/img18.png', alt='Imagen decorativa')
 

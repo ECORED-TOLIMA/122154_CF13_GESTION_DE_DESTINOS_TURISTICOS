@@ -17,7 +17,7 @@
               p A continuación, se presentan los principales enfoques metodológicos utilizados en Colombia para el monitoreo y seguimiento:
             .col-lg-6.col-md-8.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/temas/tema2/img01.svg', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema2/img01.png', alt='Imagen decorativa')
 
     .row.justify-content-center.align-items-center(data-aos="flip-up")
       .col-12
@@ -103,7 +103,7 @@
           p Las aplicaciones de geolocalización permiten rastrear flujos turísticos y mejorar la gestión de recursos, mientras que las redes sociales y herramientas de análisis de sentimiento facilitan la evaluación de la percepción del mercado y las tendencias. Asimismo, los sistemas de gestión hotelera automatizan tareas operativas y proporcionan datos en tiempo real sobre ocupación y reservas, optimizando la toma de decisiones. Finalmente, el análisis de reseñas y comentarios en línea proporciona información valiosa para mejorar la calidad del servicio y la satisfacción del cliente.
         .col-lg-5.col-md-8.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           figure
-            img(src='@/assets/curso/temas/tema2/img11.svg', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/tema2/img11.png', alt='Imagen decorativa')
 
       p Estas tecnologías no solo mejoran la experiencia del viajero, sino que también contribuyen a una planificación más eficiente y sostenible del turismo. A continuación, se presentan algunas herramientas tecnológicas más utilizadas:
 

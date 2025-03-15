@@ -7,11 +7,11 @@
         span 5
       h1 Técnicas de análisis de resultados
     
-    .col-auto.mb-4(data-aos="flip-up")
+    .col-auto.mb-5(data-aos="flip-up")
       figure
         img(src='@/assets/curso/temas/tema5/img01.png', alt='Imagen decorativa')
 
-    p.mb-4(data-aos="fade-left") Para evaluar el desempeño y la efectividad de las políticas de gestión turística en Colombia, se emplean diversas técnicas de análisis. Estas permiten interpretar los indicadores del sector y facilitar la toma de decisiones estratégicas. A continuación, se presentan las principales metodologías utilizadas: 
+    p.mb-5(data-aos="fade-left") Para evaluar el desempeño y la efectividad de las políticas de gestión turística en Colombia, se emplean diversas técnicas de análisis. Estas permiten interpretar los indicadores del sector y facilitar la toma de decisiones estratégicas. A continuación, se presentan las principales metodologías utilizadas: 
 
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-6.mb-3
