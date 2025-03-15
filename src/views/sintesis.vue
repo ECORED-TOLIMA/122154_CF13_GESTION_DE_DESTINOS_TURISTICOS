@@ -10,7 +10,7 @@
         figure
           img(src="@/assets/curso/sintesis.svg", alt="El componente formativo Indicadores de gestión turística, ofrece herramientas para el monitoreo y seguimiento de destinos, abordando metodologías, selección de indicadores clave y análisis de impactos. Se incluyen técnicas de interpretación de datos, elaboración de informes y estrategias de mejora continua, garantizando una gestión turística eficiente y sostenible.")
       .col-auto
-        a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
+        a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis_122154.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/bullets/icono-pdf.svg")
           .anexo__texto
