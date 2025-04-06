@@ -115,15 +115,15 @@
             figure
               img.img200(src='@/assets/curso/temas/tema5/img08.svg', alt='Imagen decorativa')
           .col-lg-10.mb-4.mb-lg-0
-            h4 Definición de indicadores de gestión turística
-              p.mb-0 Identificación de los indicadores clave para el análisis, como el número de visitantes, los ingresos por turismo, la sostenibilidad y la satisfacción del cliente.
+            h5 Definición de indicadores de gestión turística
+              p.mb-0 identificación de los indicadores clave para el análisis, como el número de visitantes, ingresos por turismo, sostenibilidad y satisfacción del cliente.
 
         .row(titulo="02")
           .col-lg-2.mb-3.mb-lg-0.col-6
             figure
               img.img200(src='@/assets/curso/temas/tema5/img09.svg', alt='Imagen decorativa')
           .col-lg-10.mb-4.mb-lg-0
-            h4 Recolección de datos
+            h5 Recolección de datos
               p.mb-0 Obtención de información de fuentes confiables, como el Ministerio de Comercio, Industria y Turismo de Colombia, el DANE y organismos internacionales.
 
         .row(titulo="03")
@@ -131,7 +131,7 @@
             figure
               img.img200(src='@/assets/curso/temas/tema5/img10.svg', alt='Imagen decorativa')
           .col-lg-10.mb-4.mb-lg-0
-            h4 Análisis cuantitativo y cualitativo
+            h5 Análisis cuantitativo y cualitativo
               p.mb-0 Aplicación de métodos estadísticos para identificar tendencias, incluyendo promedios, variaciones y correlaciones, complementados con un análisis cualitativo sobre políticas públicas, percepciones de los turistas e impactos sociales.
 
         .row(titulo="04")
@@ -139,7 +139,7 @@
             figure
               img.img200(src='@/assets/curso/temas/tema5/img11.svg', alt='Imagen decorativa')
           .col-lg-10.mb-4.mb-lg-0
-            h4 Identificación de tendencias
+            h5 Identificación de tendencias
               p.mb-0 Evaluación de los cambios a lo largo del tiempo para detectar patrones, como el aumento del turismo internacional o la estacionalidad en la demanda.
 
         .row(titulo="05")
@@ -147,7 +147,7 @@
             figure
               img.img200(src='@/assets/curso/temas/tema5/img12.svg', alt='Imagen decorativa')
           .col-lg-10.mb-4.mb-lg-0
-            h4 Contextualización de resultados
+            h5 Contextualización de resultados
               p.mb-0 Relación de los hallazgos con el contexto socioeconómico del país, las políticas implementadas y las transformaciones en la industria turística a nivel global.
 
         .row(titulo="06")
@@ -155,7 +155,7 @@
             figure
               img.img200(src='@/assets/curso/temas/tema5/img13.svg', alt='Imagen decorativa')
           .col-lg-10.mb-4.mb-lg-0
-            h4 Conclusiones y recomendaciones
+            h5 Conclusiones y recomendaciones
               p.mb-0 Síntesis de los principales hallazgos sobre la efectividad de las estrategias de gestión turística y formulación de recomendaciones basadas en los resultados.
 
     p.mb-0(data-aos="fade-left") La interpretación de los datos no solo permite evaluar el desempeño del sector turístico, sino también anticipar desafíos y oportunidades para su desarrollo sostenible. Al identificar tendencias y patrones, es posible diseñar estrategias más eficaces que impulsen la competitividad del turismo en Colombia, fomenten la inversión y mejoren la experiencia de los visitantes. Además, una adecuada contextualización de los resultados contribuye a la formulación de políticas públicas que respondan a las necesidades del sector y promuevan un crecimiento equilibrado y responsable.

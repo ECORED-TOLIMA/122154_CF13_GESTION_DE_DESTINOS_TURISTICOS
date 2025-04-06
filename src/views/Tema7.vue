@@ -132,7 +132,7 @@
           img(src='@/assets/curso/temas/tema7/img10.png', alt='Imagen decorativa')
     p.mb-0(data-aos="fade-left") Este enfoque fortalece la competitividad del turismo en Colombia y contribuye a un crecimiento más equitativo y sostenible del sector.
 
-      
+
 
 
 </template>

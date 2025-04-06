@@ -221,7 +221,7 @@
       #t_2_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 2.4 Ejemplos de aplicación práctica en destinos turísticos
 
-      p.mb-5(data-aos="fade-left") Para comprender mejor las diferencias entre ambos enfoques, se presenta una comparación de sus características clave. Mientras la planificación estratégica se enfoca en el crecimiento del turismo mediante estrategias estructuradas, el enfoque de sostenibilidad prioriza la conservación del entorno y el bienestar de las comunidades locales. La siguiente tabla resume los principales aspectos de cada metodología:
+      p.mb-5(data-aos="fade-left") La aplicación de metodologías en la gestión de territorios turísticos permite optimizar el desarrollo sostenible, involucrar a las comunidades y fortalecer la oferta turística. La siguiente tabla presenta casos específicos en Colombia donde estas metodologías han sido implementadas con éxito.
 
       .row.justify-content-center.mb-5(data-aos="flip-up")
         .col-lg-11.col-12
@@ -238,19 +238,19 @@
               tbody
                 tr
                   td.text-bold(style="background-color: #fff") Investigación participativa en turismo
-                  td(style="background-color: #fff") Comunidad de San Basilio de Palenque
+                  td(style="background-color: #fff") Comunidad de San Basilio de Palenque.
                   td(style="background-color: #fff") La comunidad ha liderado proyectos de turismo cultural basados en su identidad afrodescendiente. La formación de guías locales y la transmisión de conocimientos han fortalecido su oferta turística.
                 tr
                   td.text-bold(style="background-color: #fff") Análisis FODA
-                  td(style="background-color: #fff") Desarrollo del Ecoturismo en la Región del Amazonas
+                  td(style="background-color: #fff") Desarrollo del Ecoturismo en la Región del Amazonas.
                   td(style="background-color: #fff") Se realizó un análisis de fortalezas, oportunidades, debilidades y amenazas para diseñar estrategias que fomentan el ecoturismo y la conservación ambiental.
                 tr
                   td.text-bold(style="background-color: #fff") Planificación estratégica en turismo sostenible
-                  td(style="background-color: #fff") Estrategia de Turismo Responsable en Cartagena
+                  td(style="background-color: #fff") Estrategia de Turismo Responsable en Cartagena.
                   td(style="background-color: #fff") La implementación de políticas turísticas busca equilibrar la afluencia de visitantes con la preservación del patrimonio cultural y natural. Se han establecido regulaciones para el turismo responsable.
                 tr
                   td.text-bold(style="background-color: #fff") Modelos de gestión de destinos
-                  td(style="background-color: #fff") Parque Arqueológico de San Agustín
+                  td(style="background-color: #fff") Parque Arqueológico de San Agustín.
                   td(style="background-color: #fff") Se adoptó un modelo de gestión participativa que involucra a la comunidad local en la administración del parque, promoviendo la sostenibilidad y el desarrollo económico.
 
       p.mb-0(data-aos="fade-left") Este cuadro proporciona una visión general de cómo diferentes metodologías pueden ser aplicadas en diversos contextos turísticos en Colombia. Su implementación permite una planificación más eficiente, garantiza la sostenibilidad del destino y promueve el beneficio de las comunidades locales.

@@ -7,7 +7,7 @@
         span 1
       h1 Monitoreo y seguimiento
     
-    p.mb-5(data-aos="fade-left") El monitoreo y el seguimiento son procesos esenciales en la gestión de proyectos y programas, ya que permiten evaluar el avance y realizar ajustes estratégicos para garantizar el cumplimiento de los objetivos establecidos. El monitoreo se centra en la recopilación y análisis de datos sobre el progreso de actividades y resultados, mientras que el seguimiento complementa este proceso mediante la evaluación continua para asegurar que las acciones se ejecuten conforme a lo planificado.
+    p.mb-5(data-aos="fade-left") El monitoreo y el seguimiento desempeñan un papel clave en la gestión de proyectos, ya que permiten observar y controlar su ejecución en tiempo real. A través de estos procesos, se verifica si las actividades planificadas se están desarrollando según lo previsto y se identifican posibles desviaciones que puedan requerir ajustes. Su implementación no solo contribuye al cumplimiento de metas, sino que también optimiza el uso de recursos, refuerza la transparencia institucional y mejora la toma de decisiones. 
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-up")
       .bloque-texto-g__img(
