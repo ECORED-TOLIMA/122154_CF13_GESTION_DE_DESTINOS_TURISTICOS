@@ -40,6 +40,68 @@ table
     thead
       border-color: $color-acento-botones
 
+//- ejemplo tabla a, con versión respnsive diferente
+// .tabla-a
+//   overflow-x: auto
+
+//   table
+//     width: 100% // aseguramos que siempre ocupe todo el ancho disponible
+//     border-collapse: collapse
+
+//   thead
+//     border-top: 5px solid
+//     color: $table-header-color
+//     background-color: $table-header-bg-color
+
+//   th
+//     border-color: $table-header-bg-color
+//     font-weight: $base-bold-font-weight
+//     text-align: center
+//     font-size: $h4-font-size
+//     word-break: break-word
+
+//   td
+//     word-break: break-word 
+//     white-space: normal 
+
+//   // Colores según clase
+//   &.color-primario
+//     thead
+//       border-color: $color-primario
+//   &.color-secundario
+//     thead
+//       border-color: $color-secundario
+//   &.color-acento-contenido
+//     thead
+//       border-color: $color-acento-contenido
+//   &.color-acento-botones
+//     thead
+//       border-color: $color-acento-botones
+
+//   // Estilos responsive
+//   @media (max-width: 650px)
+//     .tabla-a td
+//       display: block
+//       width: 100%
+//       word-break: break-word
+//       white-space: normal
+
+//     table
+//       min-width: unset // <--- quitamos el mínimo ancho
+
+//     th
+//       display: none
+
+//     td
+//       display: block
+//       width: 100%
+//       text-align: left
+
+//     td::before
+//       content: attr(data-cell) ": "
+//       font-weight: 700
+//       text-transform: capitalize
+
   
 
 .tabla-b

@@ -7,21 +7,21 @@
         span 1
       h1 Monitoreo y seguimiento
     
-    p.mb-5(data-aos="fade-left") El monitoreo y el seguimiento desempeñan un papel clave en la gestión de proyectos, ya que permiten observar y controlar su ejecución en tiempo real. A través de estos procesos, se verifica si las actividades planificadas se están desarrollando según lo previsto y se identifican posibles desviaciones que puedan requerir ajustes. Su implementación no solo contribuye al cumplimiento de metas, sino que también optimiza el uso de recursos, refuerza la transparencia institucional y mejora la toma de decisiones. 
+    p.mb-0(data-aos="fade-left") El monitoreo y el seguimiento desempeñan un papel clave en la gestión de proyectos, ya que permiten observar y controlar su ejecución en tiempo real. A través de estos procesos, se verifica si las actividades planificadas se están desarrollando según lo previsto y se identifican posibles desviaciones que puedan requerir ajustes. Su implementación no solo contribuye al cumplimiento de metas, sino que también optimiza el uso de recursos, refuerza la transparencia institucional y mejora la toma de decisiones. 
 
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-up")
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img01.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.mb-0 Por su parte, el seguimiento complementa este proceso al analizar e interpretar la información obtenida, lo que permite identificar áreas de mejora y realizar ajustes estratégicos. Ambos procesos contribuyen a la optimización de los recursos, asegurando su uso eficiente y la consecución de los resultados esperados.
-          br
-          br
-          | 
+    //- .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-up")
+    //-   .bloque-texto-g__img(
+    //-     :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img01.png')})`}"
+    //-   )
+    //-   .bloque-texto-g__texto.p-4
+    //-     p.mb-0 Por su parte, el seguimiento complementa este proceso al analizar e interpretar la información obtenida, lo que permite identificar áreas de mejora y realizar ajustes estratégicos. Ambos procesos contribuyen a la optimización de los recursos, asegurando su uso eficiente y la consecución de los resultados esperados.
+    //-       br
+    //-       br
+    //-       | 
 
-    .row.justify-content-center
-      .col-lg-10.col-12
-        p.mb-0(data-aos="fade-left") Además, el monitoreo y el seguimiento fortalecen la transparencia y la rendición de cuentas, facilitando que gestores y partes interesadas comprendan el estado y el impacto de las acciones implementadas. A través de estos mecanismos, es posible aplicar medidas correctivas oportunas, mejorar el desempeño y garantizar un desarrollo sostenible a largo plazo.
+    //- .row.justify-content-center
+    //-   .col-lg-10.col-12
+    //-     p.mb-0(data-aos="fade-left") Además, el monitoreo y el seguimiento fortalecen la transparencia y la rendición de cuentas, facilitando que gestores y partes interesadas comprendan el estado y el impacto de las acciones implementadas. A través de estos mecanismos, es posible aplicar medidas correctivas oportunas, mejorar el desempeño y garantizar un desarrollo sostenible a largo plazo.
 
     separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -98,6 +98,40 @@
                 td.text-bold(style="background-color: #fff") Responsabilidad
                 td(style="background-color: #fff") Generalmente manejado por los equipos que implementan el proyecto para realizar ajustes en la operación diaria.
                 td(style="background-color: #fff") Normalmente gestionado por evaluadores internos o externos que buscan una perspectiva imparcial.
+
+        //- Variante tabla a con versión responsive diferente
+        //- .tabla-a.color-acento-contenido
+        //-   table
+        //-     thead
+        //-       tr
+        //-         th(style= "width: 20%") Aspecto
+        //-         th(style= "width: 40%") Monitoreo
+        //-         th(style= "width: 40%") Evaluación
+        //-     tbody
+        //-       tr
+        //-         td.text-bold.text-center(style="background-color: #fff", data-cell="Aspecto") Definición
+        //-         td(style="background-color: #fff", data-cell="Monitoreo") Proceso continuo y sistemático que recoge información de manera regular para supervisar el avance de un proyecto o programa.
+        //-         td(style="background-color: #fff", data-cell="Evaluación") Proceso sistemático que examina en profundidad la relevancia, efectividad, eficiencia e impacto de un proyecto o programa, generalmente tras su finalización o en momentos clave.
+        //-       tr
+        //-         td.text-bold.text-center(style="background-color: #fff", data-cell="Aspecto") Objetivo
+        //-         td(style="background-color: #fff", data-cell="Monitoreo") Asegurar que las actividades se implementen de acuerdo con el plan, permitiendo ajustes en tiempo real.
+        //-         td(style="background-color: #fff", data-cell="Evaluación") Determinar el éxito y el impacto de un proyecto o programa y generar lecciones aprendidas para decisiones futuras.
+        //-       tr
+        //-         td.text-bold.text-center(style="background-color: #fff", data-cell="Aspecto") Temporalidad
+        //-         td(style="background-color: #fff", data-cell="Monitoreo") Se lleva a cabo regularmente durante toda la ejecución del proyecto.
+        //-         td(style="background-color: #fff", data-cell="Evaluación") Se realiza en momentos específicos, como a mitad o al final del proyecto.
+        //-       tr
+        //-         td.text-bold.text-center(style="background-color: #fff", data-cell="Aspecto") Enfoque
+        //-         td(style="background-color: #fff", data-cell="Monitoreo") Basado en actividades y procesos (cuánto se ha hecho).
+        //-         td(style="background-color: #fff", data-cell="Evaluación") Basado en resultados y logros (qué tan bien se ha hecho y qué se ha logrado).
+        //-       tr
+        //-         td.text-bold.text-center(style="background-color: #fff", data-cell="Aspecto") Fuente de datos
+        //-         td(style="background-color: #fff", data-cell="Monitoreo") Datos recolectados de manera continua, como informes de progreso, encuestas rápidas y registros administrativos.
+        //-         td(style="background-color: #fff", data-cell="Evaluación") Datos provenientes de estudios, análisis estadísticos, entrevistas en profundidad y encuestas más detalladas.
+        //-       tr
+        //-         td.text-bold.text-center(style="background-color: #fff", data-cell="Aspecto") Responsabilidad
+        //-         td(style="background-color: #fff", data-cell="Monitoreo") Generalmente manejado por los equipos que implementan el proyecto para realizar ajustes en la operación diaria.
+        //-         td(style="background-color: #fff", data-cell="Evaluación") Normalmente gestionado por evaluadores internos o externos que buscan una perspectiva imparcial.
     separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.4 Buenas prácticas en monitoreo turístico
