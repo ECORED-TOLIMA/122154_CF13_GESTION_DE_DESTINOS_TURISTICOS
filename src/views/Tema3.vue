@@ -66,7 +66,7 @@
             LineaTiempoD.color-acento-botones.especial
               .row.mb-4(numero="1" titulo="Indicadores económicos")
                 .col-12.mb-4.mb-md-0
-                  p Estos indicadores miden la actividad económica y el desempeño financiero del turismo en una región. Incluyen datos sobre el PIB, la inflación y el empleo, proporcionando información clave sobre el crecimiento del sector. En Colombia, algunos ejemplos incluyen:
+                  p Miden la actividad económica y el desempeño financiero del turismo en una región. Incluyen datos sobre el PIB, la inflación y el empleo, proporcionando información clave sobre el crecimiento del sector. En Colombia, algunos ejemplos incluyen:
                   .tarjeta.tarjeta--blanca.p-4
                     li.mb-0 Producto Interno Bruto (PIB) del turismo.
                     li.mb-0 Ingresos generados por el turismo.
