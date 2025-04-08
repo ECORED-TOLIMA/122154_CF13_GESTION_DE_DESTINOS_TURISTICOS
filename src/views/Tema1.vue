@@ -99,39 +99,39 @@
                 td(style="background-color: #fff") Generalmente manejado por los equipos que implementan el proyecto para realizar ajustes en la operación diaria.
                 td(style="background-color: #fff") Normalmente gestionado por evaluadores internos o externos que buscan una perspectiva imparcial.
 
-        //- Variante tabla a con versión responsive diferente
-        //- .tabla-a.color-acento-contenido
-        //-   table
-        //-     thead
-        //-       tr
-        //-         th(style= "width: 20%") Aspecto
-        //-         th(style= "width: 40%") Monitoreo
-        //-         th(style= "width: 40%") Evaluación
-        //-     tbody
-        //-       tr
-        //-         td.text-bold.text-center(style="background-color: #fff", data-cell="Aspecto") Definición
-        //-         td(style="background-color: #fff", data-cell="Monitoreo") Proceso continuo y sistemático que recoge información de manera regular para supervisar el avance de un proyecto o programa.
-        //-         td(style="background-color: #fff", data-cell="Evaluación") Proceso sistemático que examina en profundidad la relevancia, efectividad, eficiencia e impacto de un proyecto o programa, generalmente tras su finalización o en momentos clave.
-        //-       tr
-        //-         td.text-bold.text-center(style="background-color: #fff", data-cell="Aspecto") Objetivo
-        //-         td(style="background-color: #fff", data-cell="Monitoreo") Asegurar que las actividades se implementen de acuerdo con el plan, permitiendo ajustes en tiempo real.
-        //-         td(style="background-color: #fff", data-cell="Evaluación") Determinar el éxito y el impacto de un proyecto o programa y generar lecciones aprendidas para decisiones futuras.
-        //-       tr
-        //-         td.text-bold.text-center(style="background-color: #fff", data-cell="Aspecto") Temporalidad
-        //-         td(style="background-color: #fff", data-cell="Monitoreo") Se lleva a cabo regularmente durante toda la ejecución del proyecto.
-        //-         td(style="background-color: #fff", data-cell="Evaluación") Se realiza en momentos específicos, como a mitad o al final del proyecto.
-        //-       tr
-        //-         td.text-bold.text-center(style="background-color: #fff", data-cell="Aspecto") Enfoque
-        //-         td(style="background-color: #fff", data-cell="Monitoreo") Basado en actividades y procesos (cuánto se ha hecho).
-        //-         td(style="background-color: #fff", data-cell="Evaluación") Basado en resultados y logros (qué tan bien se ha hecho y qué se ha logrado).
-        //-       tr
-        //-         td.text-bold.text-center(style="background-color: #fff", data-cell="Aspecto") Fuente de datos
-        //-         td(style="background-color: #fff", data-cell="Monitoreo") Datos recolectados de manera continua, como informes de progreso, encuestas rápidas y registros administrativos.
-        //-         td(style="background-color: #fff", data-cell="Evaluación") Datos provenientes de estudios, análisis estadísticos, entrevistas en profundidad y encuestas más detalladas.
-        //-       tr
-        //-         td.text-bold.text-center(style="background-color: #fff", data-cell="Aspecto") Responsabilidad
-        //-         td(style="background-color: #fff", data-cell="Monitoreo") Generalmente manejado por los equipos que implementan el proyecto para realizar ajustes en la operación diaria.
-        //-         td(style="background-color: #fff", data-cell="Evaluación") Normalmente gestionado por evaluadores internos o externos que buscan una perspectiva imparcial.
+        //-Variante tabla a con versión responsive diferente
+        //-.tabla-a.color-acento-contenido
+          table
+            thead
+              tr
+                th(style= "width: 20%") Aspecto
+                th(style= "width: 40%") Monitoreo
+                th(style= "width: 40%") Evaluación
+            tbody
+              tr
+                td.text-bold.text-center(style="background-color: #fff", data-cell="Aspecto") Definición
+                td(style="background-color: #fff", data-cell="Monitoreo") Proceso continuo y sistemático que recoge información de manera regular para supervisar el avance de un proyecto o programa.
+                td(style="background-color: #fff", data-cell="Evaluación") Proceso sistemático que examina en profundidad la relevancia, efectividad, eficiencia e impacto de un proyecto o programa, generalmente tras su finalización o en momentos clave.
+              tr
+                td.text-bold.text-center(style="background-color: #fff", data-cell="Aspecto") Objetivo
+                td(style="background-color: #fff", data-cell="Monitoreo") Asegurar que las actividades se implementen de acuerdo con el plan, permitiendo ajustes en tiempo real.
+                td(style="background-color: #fff", data-cell="Evaluación") Determinar el éxito y el impacto de un proyecto o programa y generar lecciones aprendidas para decisiones futuras.
+              tr
+                td.text-bold.text-center(style="background-color: #fff", data-cell="Aspecto") Temporalidad
+                td(style="background-color: #fff", data-cell="Monitoreo") Se lleva a cabo regularmente durante toda la ejecución del proyecto.
+                td(style="background-color: #fff", data-cell="Evaluación") Se realiza en momentos específicos, como a mitad o al final del proyecto.
+              tr
+                td.text-bold.text-center(style="background-color: #fff", data-cell="Aspecto") Enfoque
+                td(style="background-color: #fff", data-cell="Monitoreo") Basado en actividades y procesos (cuánto se ha hecho).
+                td(style="background-color: #fff", data-cell="Evaluación") Basado en resultados y logros (qué tan bien se ha hecho y qué se ha logrado).
+              tr
+                td.text-bold.text-center(style="background-color: #fff", data-cell="Aspecto") Fuente de datos
+                td(style="background-color: #fff", data-cell="Monitoreo") Datos recolectados de manera continua, como informes de progreso, encuestas rápidas y registros administrativos.
+                td(style="background-color: #fff", data-cell="Evaluación") Datos provenientes de estudios, análisis estadísticos, entrevistas en profundidad y encuestas más detalladas.
+              tr
+                td.text-bold.text-center(style="background-color: #fff", data-cell="Aspecto") Responsabilidad
+                td(style="background-color: #fff", data-cell="Monitoreo") Generalmente manejado por los equipos que implementan el proyecto para realizar ajustes en la operación diaria.
+                td(style="background-color: #fff", data-cell="Evaluación") Normalmente gestionado por evaluadores internos o externos que buscan una perspectiva imparcial.
     separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.4 Buenas prácticas en monitoreo turístico
