@@ -22,6 +22,8 @@ export default {
       introduccion:
         '<b> Objetivo:</b> Verificar el manejo de las temáticas normas y metodologías, utilizadas en el manejo de los indicadores de gestión turistica ',
       barajarPreguntas: true,
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,
